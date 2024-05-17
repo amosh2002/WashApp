@@ -1,18 +1,25 @@
 [versions]
 agp = "8.3.1"
 coil = "2.6.0"
+decompose = "0.4.0"
+extensionsComposeJetbrains = "0.4.0"
 kotlin = "1.9.23"
 compose = "1.6.4"
 compose-compiler = "1.5.11"
 compose-material3 = "1.2.1"
 androidx-activityCompose = "1.8.2"
 kotlinxCoroutinesCore = "1.6.0"
+navigationCompose = "2.7.0-alpha03"
 sqliteDriver = "2.0.1"
 lifecycleViewmodelKtx = "2.7.0"
+navigationRuntimeKtx = "2.7.7"
 
 [libraries]
+androidx-navigation-compose = { module = "androidx.navigation:navigation-compose", version.ref = "navigationRuntimeKtx" }
 coil = { module = "io.coil-kt:coil", version.ref = "coil" }
 coil-compose = { module = "io.coil-kt:coil-compose", version.ref = "coil" }
+decompose = { module = "com.arkivanov.decompose:decompose", version.ref = "decompose" }
+decompose-extensions-compose-jetbrains = { module = "com.arkivanov.decompose:extensions-compose-jetbrains", version.ref = "extensionsComposeJetbrains" }
 kotlin-test = { module = "org.jetbrains.kotlin:kotlin-test", version.ref = "kotlin" }
 androidx-activity-compose = { module = "androidx.activity:activity-compose", version.ref = "androidx-activityCompose" }
 compose-ui = { module = "androidx.compose.ui:ui", version.ref = "compose" }
@@ -22,6 +29,8 @@ compose-foundation = { module = "androidx.compose.foundation:foundation", versio
 compose-material3 = { module = "androidx.compose.material3:material3", version.ref = "compose-material3" }
 kotlinx-coroutines-core = { module = "org.jetbrains.kotlinx:kotlinx-coroutines-core", version.ref = "kotlinxCoroutinesCore" }
 androidx-lifecycle-viewmodel-ktx = { group = "androidx.lifecycle", name = "lifecycle-viewmodel-ktx", version.ref = "lifecycleViewmodelKtx" }
+androidx-navigation-runtime-ktx = { group = "androidx.navigation", name = "navigation-runtime-ktx", version.ref = "navigationRuntimeKtx" }
+navigation-compose = { module = "org.jetbrains.androidx.navigation:navigation-compose", version.ref = "navigationCompose" }
 
 [plugins]
 androidApplication = { id = "com.android.application", version.ref = "agp" }

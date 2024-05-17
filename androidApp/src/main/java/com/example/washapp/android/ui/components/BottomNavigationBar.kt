@@ -20,12 +20,12 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.sp
-import com.example.washapp.navigation.NavigationItem
+import com.example.washapp.navigation.NavBarItem
 
 @Composable
 fun BottomNavigationBar(currentRoute: String, onItemSelected: (String) -> Unit) {
 
-    val items = NavigationItem.entries.toTypedArray()
+    val items = NavBarItem.entries.toTypedArray()
     var selectedItem by remember { mutableStateOf(currentRoute) }
 
     // Custom Bottom Navigation Bar
@@ -66,7 +66,6 @@ fun BottomNavigationBar(currentRoute: String, onItemSelected: (String) -> Unit) 
 //        }
 //    }
 
-
     // Material Bottom Navigation Bar
     NavigationBar(
         containerColor = MaterialTheme.colorScheme.surface,
@@ -74,13 +73,17 @@ fun BottomNavigationBar(currentRoute: String, onItemSelected: (String) -> Unit) 
         items.forEach { item ->
             NavigationBarItem(
                 modifier = Modifier,
-                icon = { Icon(imageVector = when (item) {
-                    NavigationItem.Home -> Icons.Filled.Home
-                    NavigationItem.Bonuses -> Icons.Filled.Star
-                    NavigationItem.Create -> Icons.Filled.AddCircle
-                    NavigationItem.List -> Icons.Filled.Notifications
-                    NavigationItem.More -> Icons.Filled.Menu
-                }, contentDescription = item.name) },
+                icon = {
+                    Icon(
+                        imageVector = when (item) {
+                            NavBarItem.Home -> Icons.Filled.Home
+                            NavBarItem.Bonuses -> Icons.Filled.Star
+                            NavBarItem.Create -> Icons.Filled.AddCircle
+                            NavBarItem.List -> Icons.Filled.Notifications
+                            NavBarItem.More -> Icons.Filled.Menu
+                        }, contentDescription = item.name
+                    )
+                },
                 label = { Text(item.name, fontSize = 12.sp) },
                 selected = selectedItem == item.route,
                 onClick = {
