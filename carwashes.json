@@ -12,7 +12,7 @@
   {
     "objectId": 1,
     "name": "Ավտոմաշին 1",
-    "address": "Աբովյան խճուղի 1",
+    "address": "Shoshe խճուղի 1",
     "rating": 4.3,
     "ratingCount": 12,
     "workHours": "10:00 - 23:00",
@@ -20,9 +20,9 @@
   },
   {
     "objectId": 2,
-    "name": "Ավտոմաշին 2",
-    "address": "Աբովյան խճուղի 1",
-    "rating": 4.3,
+    "name": "DUDU 2",
+    "address": "Warsaw խճուղի 1",
+    "rating": 4.1,
     "ratingCount": 12,
     "workHours": "10:00 - 23:00",
     "isPromoted": true,
@@ -30,11 +30,32 @@
   },
   {
     "objectId": 3,
-    "name": "Ավտոմաշին 3",
+    "name": "KAK 3",
+    "address": "Halabuya խճուղի 1",
+    "rating": 4.0,
+    "ratingCount": 12,
+    "workHours": "10:00 - 23:00",
+    "imageUrl": "https://www.treehugger.com/thmb/nzRvmJ0mm74oRku8JSCA7LwppTo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2019__07__commercial_car_wash-1d8498e0ea964ffc91eeab5b48c1265b.jpg"
+  },
+  {
+    "objectId": 4,
+    "name": "LOLIK 4",
+    "address": "Աբովյան 1",
+    "rating": 4.3,
+    "ratingCount": 12,
+    "workHours": "10:00 - 23:00",
+    "isPromoted": true,
+    "imageUrl": "https://www.treehugger.com/thmb/nzRvmJ0mm74oRku8JSCA7LwppTo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2019__07__commercial_car_wash-1d8498e0ea964ffc91eeab5b48c1265b.jpg"
+  }
+  ,
+  {
+    "objectId": 5,
+    "name": "Iniesta 4",
     "address": "Աբովյան խճուղի 1",
     "rating": 4.3,
     "ratingCount": 12,
     "workHours": "10:00 - 23:00",
+    "isPromoted": true,
     "imageUrl": "https://www.treehugger.com/thmb/nzRvmJ0mm74oRku8JSCA7LwppTo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2019__07__commercial_car_wash-1d8498e0ea964ffc91eeab5b48c1265b.jpg"
   }
 ]
