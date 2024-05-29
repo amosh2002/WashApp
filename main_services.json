@@ -1,0 +1,32 @@
+[
+  {
+    "objectId": 0,
+    "name": "Outside Wash",
+    "imageUrl": "https://png.pngtree.com/png-vector/20230120/ourmid/pngtree-car-drawing-outline-transport-isolated-png-image_6558406.png"
+  },
+  {
+    "objectId": 1,
+    "name": "Inside Wash",
+    "imageUrl": "https://png.pngtree.com/png-vector/20230120/ourmid/pngtree-car-drawing-outline-transport-isolated-png-image_6558406.png"
+  },
+  {
+    "objectId": 2,
+    "name": "Chem. Cleaning",
+    "imageUrl": "https://png.pngtree.com/png-vector/20230120/ourmid/pngtree-car-drawing-outline-transport-isolated-png-image_6558406.png"
+  },
+  {
+    "objectId": 3,
+    "name": "Ceramic Coating",
+    "imageUrl": "https://png.pngtree.com/png-vector/20230120/ourmid/pngtree-car-drawing-outline-transport-isolated-png-image_6558406.png"
+  },
+  {
+    "objectId": 4,
+    "name": "Polishing",
+    "imageUrl": "https://png.pngtree.com/png-vector/20230120/ourmid/pngtree-car-drawing-outline-transport-isolated-png-image_6558406.png"
+  },
+  {
+    "objectId": 5,
+    "name": "Paint Protection Film",
+    "imageUrl": "https://png.pngtree.com/png-vector/20230120/ourmid/pngtree-car-drawing-outline-transport-isolated-png-image_6558406.png"
+  }
+]
