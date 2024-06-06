@@ -1,0 +1,20 @@
+[
+  {
+    "objectId": 0,
+    "brand": "Toyota",
+    "model": "RAV4",
+    "year": 2020,
+    "color": "White",
+    "plateNumber": "02TT007",
+    "imageUrl": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png"
+  },
+  {
+    "objectId": 1,
+    "brand": "BMW",
+    "model": "X5",
+    "year": 2022,
+    "color": "Black",
+    "plateNumber": "07XX007",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/640px-BMW.svg.png"
+  }
+]
