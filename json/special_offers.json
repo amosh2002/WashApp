@@ -8,7 +8,7 @@
     "validity": "2021-12-31"
   },
   {
-    "id": 2,
+    "objectId": 2,
     "carwashId": 2,
     "title": "Book 1, get 2nd free!",
     "description": "Book 1 service and get the 2nd one for free",
