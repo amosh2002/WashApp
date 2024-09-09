@@ -1,0 +1,42 @@
+[
+  {
+    "category": "Outside Wash",
+    "minPrice": 2000,
+    "maxPrice": 10000,
+    "minDuration": "30m",
+    "maxDuration": "60m",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/887/887251.png"
+  },
+  {
+    "category": "Inside Wash",
+    "minPrice": 1000,
+    "maxPrice": 3000,
+    "minDuration": "10m",
+    "maxDuration": "20m",
+    "imageUrl": "https://png.pngtree.com/png-vector/20230120/ourmid/pngtree-car-drawing-outline-transport-isolated-png-image_6558406.png"
+  },
+  {
+    "category": "Chem. Wash",
+    "minPrice": 5000,
+    "maxPrice": 15000,
+    "minDuration": "40m",
+    "maxDuration": "140m",
+    "imageUrl": "https://cdn3.iconfinder.com/data/icons/car-wash-13/64/tire_cleaning-clean-vehicle-512.png"
+  },
+  {
+    "category": "Inside Wash",
+    "minPrice": 0,
+    "maxPrice": 1000,
+    "minDuration": "15m",
+    "maxDuration": "30m",
+    "imageUrl": "https://png.pngtree.com/png-clipart/20230331/original/pngtree-vacuum-cleaner-line-icon-png-image_9013737.png"
+  },
+  {
+    "category": "Ceramic Coating",
+    "minPrice": 7000,
+    "maxPrice": 18000,
+    "minDuration": "80m",
+    "maxDuration": "150m",
+    "imageUrl": "https://png.pngtree.com/png-vector/20230120/ourmid/pngtree-car-drawing-outline-transport-isolated-png-image_6558406.png"
+  }
+]
