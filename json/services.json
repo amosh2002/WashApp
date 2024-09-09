@@ -1,0 +1,56 @@
+[
+  {
+    "category": "Outside Wash",
+    "name": "Makerevuyti lvacum",
+    "minPrice": 5000,
+    "maxPrice": 7000,
+    "minDuration": "30m",
+    "maxDuration": "60m",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/512/887/887251.png"
+  },
+  {
+    "category": "Outside Wash",
+    "name": "Bantajneri paylecum",
+    "minPrice": 0,
+    "maxPrice": 1000,
+    "minDuration": "5m",
+    "maxDuration": "10m",
+    "imageUrl": "https://cdn3.iconfinder.com/data/icons/car-wash-13/64/tire_cleaning-clean-vehicle-512.png"
+  },
+  {
+    "category": "Outside Wash",
+    "name": "Vosk",
+    "minPrice": 1000,
+    "maxPrice": 3000,
+    "minDuration": "10m",
+    "maxDuration": "20m",
+    "imageUrl": "https://png.pngtree.com/png-vector/20230120/ourmid/pngtree-car-drawing-outline-transport-isolated-png-image_6558406.png"
+  },
+  {
+    "category": "Inside Wash",
+    "name": "Poshekul",
+    "minPrice": 0,
+    "maxPrice": 1000,
+    "minDuration": "15m",
+    "maxDuration": "30m",
+    "imageUrl": "https://png.pngtree.com/png-clipart/20230331/original/pngtree-vacuum-cleaner-line-icon-png-image_9013737.png"
+  },
+  {
+    "category": "Inside Wash",
+    "name": "Koji krem",
+    "minPrice": 1000,
+    "maxPrice": 2000,
+    "minDuration": "10m",
+    "maxDuration": "20m",
+    "imageUrl": "https://png.pngtree.com/png-vector/20230120/ourmid/pngtree-car-drawing-outline-transport-isolated-png-image_6558406.png"
+  },
+  {
+    "category": "Inside Wash",
+    "name": "Meqenayi hot",
+    "minPrice": 1000,
+    "maxPrice": 3000,
+    "minDuration": "10m",
+    "maxDuration": "15m",
+    "imageUrl": "https://cdn2.iconfinder.com/data/icons/car-wash-8/64/air_freshener-car-scent-perfume-512.png"
+  }
+]
