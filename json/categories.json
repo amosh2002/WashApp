@@ -24,14 +24,6 @@
     "imageUrl": "https://cdn3.iconfinder.com/data/icons/car-wash-13/64/tire_cleaning-clean-vehicle-512.png"
   },
   {
-    "category": "Inside Wash",
-    "minPrice": 0,
-    "maxPrice": 1000,
-    "minDuration": "15m",
-    "maxDuration": "30m",
-    "imageUrl": "https://png.pngtree.com/png-clipart/20230331/original/pngtree-vacuum-cleaner-line-icon-png-image_9013737.png"
-  },
-  {
     "category": "Ceramic Coating",
     "minPrice": 7000,
     "maxPrice": 18000,
