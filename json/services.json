@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "objectId": 1,
     "category": "Outside Wash",
     "name": "Makerevuyti lvacum",
     "minPrice": 5000,
@@ -10,7 +10,7 @@
     "imageUrl": "https://cdn-icons-png.flaticon.com/512/887/887251.png"
   },
   {
-    "id": 2,
+    "objectId": 2,
     "category": "Outside Wash",
     "name": "Bantajneri paylecum",
     "minPrice": 0,
@@ -20,7 +20,7 @@
     "imageUrl": "https://cdn3.iconfinder.com/data/icons/car-wash-13/64/tire_cleaning-clean-vehicle-512.png"
   },
   {
-    "id": 3,
+    "objectId": 3,
     "category": "Outside Wash",
     "name": "Vosk",
     "minPrice": 1000,
@@ -30,7 +30,7 @@
     "imageUrl": "https://png.pngtree.com/png-vector/20230120/ourmid/pngtree-car-drawing-outline-transport-isolated-png-image_6558406.png"
   },
   {
-    "id": 4,
+    "objectId": 4,
     "category": "Inside Wash",
     "name": "Poshekul",
     "minPrice": 0,
@@ -40,7 +40,7 @@
     "imageUrl": "https://png.pngtree.com/png-clipart/20230331/original/pngtree-vacuum-cleaner-line-icon-png-image_9013737.png"
   },
   {
-    "id": 5,
+    "objectId": 5,
     "category": "Inside Wash",
     "name": "Koji krem",
     "minPrice": 1000,
@@ -50,7 +50,7 @@
     "imageUrl": "https://png.pngtree.com/png-vector/20230120/ourmid/pngtree-car-drawing-outline-transport-isolated-png-image_6558406.png"
   },
   {
-    "id": 6,
+    "objectId": 6,
     "category": "Inside Wash",
     "name": "Meqenayi hot",
     "minPrice": 1000,
