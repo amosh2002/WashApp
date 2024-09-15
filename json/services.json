@@ -58,5 +58,65 @@
     "minDuration": "10m",
     "maxDuration": "15m",
     "imageUrl": "https://cdn2.iconfinder.com/data/icons/car-wash-8/64/air_freshener-car-scent-perfume-512.png"
+  },
+  {
+    "objectId": 7,
+    "category": "Chem. Wash",
+    "name": "Plplacum",
+    "minPrice": 10000,
+    "maxPrice": 13000,
+    "minDuration": "140m",
+    "maxDuration": "150m",
+    "imageUrl": "https://cdn2.iconfinder.com/data/icons/car-wash-8/64/air_freshener-car-scent-perfume-512.png"
+  },
+  {
+    "objectId": 8,
+    "category": "Chem. Wash",
+    "name": "Plplacum 2",
+    "minPrice": 10000,
+    "maxPrice": 13000,
+    "minDuration": "140m",
+    "maxDuration": "150m",
+    "imageUrl": "https://cdn2.iconfinder.com/data/icons/car-wash-8/64/air_freshener-car-scent-perfume-512.png"
+  },
+  {
+    "objectId": 9,
+    "category": "Chem. Wash",
+    "name": "Plplacum 3",
+    "minPrice": 11000,
+    "maxPrice": 17000,
+    "minDuration": "140m",
+    "maxDuration": "150m",
+    "imageUrl": "https://cdn2.iconfinder.com/data/icons/car-wash-8/64/air_freshener-car-scent-perfume-512.png"
+  },
+  {
+    "objectId": 10,
+    "category": "Chem. Wash",
+    "name": "Plplacum 4",
+    "minPrice": 12000,
+    "maxPrice": 15000,
+    "minDuration": "140m",
+    "maxDuration": "150m",
+    "imageUrl": "https://cdn2.iconfinder.com/data/icons/car-wash-8/64/air_freshener-car-scent-perfume-512.png"
+  },
+  {
+    "objectId": 11,
+    "category": "Ceramic Coating",
+    "name": "Esim inch",
+    "minPrice": 7000,
+    "maxPrice": 9000,
+    "minDuration": "140m",
+    "maxDuration": "150m",
+    "imageUrl": "https://cdn2.iconfinder.com/data/icons/car-wash-8/64/air_freshener-car-scent-perfume-512.png"
+  },
+  {
+    "objectId": 12,
+    "category": "Ceramic Coating",
+    "name": "A es shat gidem",
+    "minPrice": 12000,
+    "maxPrice": 15000,
+    "minDuration": "120m",
+    "maxDuration": "130m",
+    "imageUrl": "https://cdn2.iconfinder.com/data/icons/car-wash-8/64/air_freshener-car-scent-perfume-512.png"
   }
 ]
