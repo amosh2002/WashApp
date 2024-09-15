@@ -5,8 +5,8 @@
     "name": "Makerevuyti lvacum",
     "minPrice": 5000,
     "maxPrice": 7000,
-    "minDuration": "30m",
-    "maxDuration": "60m",
+    "minDuration": "30",
+    "maxDuration": "60",
     "imageUrl": "https://cdn-icons-png.flaticon.com/512/887/887251.png"
   },
   {
@@ -16,7 +16,7 @@
     "minPrice": 0,
     "maxPrice": 1000,
     "minDuration": "5m",
-    "maxDuration": "10m",
+    "maxDuration": "10",
     "imageUrl": "https://cdn3.iconfinder.com/data/icons/car-wash-13/64/tire_cleaning-clean-vehicle-512.png"
   },
   {
@@ -25,8 +25,8 @@
     "name": "Vosk",
     "minPrice": 1000,
     "maxPrice": 3000,
-    "minDuration": "10m",
-    "maxDuration": "20m",
+    "minDuration": "10",
+    "maxDuration": "20",
     "imageUrl": "https://png.pngtree.com/png-vector/20230120/ourmid/pngtree-car-drawing-outline-transport-isolated-png-image_6558406.png"
   },
   {
@@ -36,7 +36,7 @@
     "minPrice": 0,
     "maxPrice": 1000,
     "minDuration": "15m",
-    "maxDuration": "30m",
+    "maxDuration": "30",
     "imageUrl": "https://png.pngtree.com/png-clipart/20230331/original/pngtree-vacuum-cleaner-line-icon-png-image_9013737.png"
   },
   {
@@ -45,8 +45,8 @@
     "name": "Koji krem",
     "minPrice": 1000,
     "maxPrice": 2000,
-    "minDuration": "10m",
-    "maxDuration": "20m",
+    "minDuration": "10",
+    "maxDuration": "20",
     "imageUrl": "https://png.pngtree.com/png-vector/20230120/ourmid/pngtree-car-drawing-outline-transport-isolated-png-image_6558406.png"
   },
   {
@@ -55,7 +55,7 @@
     "name": "Meqenayi hot",
     "minPrice": 1000,
     "maxPrice": 3000,
-    "minDuration": "10m",
+    "minDuration": "10",
     "maxDuration": "15m",
     "imageUrl": "https://cdn2.iconfinder.com/data/icons/car-wash-8/64/air_freshener-car-scent-perfume-512.png"
   },
@@ -65,8 +65,8 @@
     "name": "Plplacum",
     "minPrice": 10000,
     "maxPrice": 13000,
-    "minDuration": "140m",
-    "maxDuration": "150m",
+    "minDuration": "140",
+    "maxDuration": "150",
     "imageUrl": "https://cdn2.iconfinder.com/data/icons/car-wash-8/64/air_freshener-car-scent-perfume-512.png"
   },
   {
@@ -75,8 +75,8 @@
     "name": "Plplacum 2",
     "minPrice": 10000,
     "maxPrice": 13000,
-    "minDuration": "140m",
-    "maxDuration": "150m",
+    "minDuration": "140",
+    "maxDuration": "150",
     "imageUrl": "https://cdn2.iconfinder.com/data/icons/car-wash-8/64/air_freshener-car-scent-perfume-512.png"
   },
   {
@@ -85,8 +85,8 @@
     "name": "Plplacum 3",
     "minPrice": 11000,
     "maxPrice": 17000,
-    "minDuration": "140m",
-    "maxDuration": "150m",
+    "minDuration": "140",
+    "maxDuration": "150",
     "imageUrl": "https://cdn2.iconfinder.com/data/icons/car-wash-8/64/air_freshener-car-scent-perfume-512.png"
   },
   {
@@ -95,8 +95,8 @@
     "name": "Plplacum 4",
     "minPrice": 12000,
     "maxPrice": 15000,
-    "minDuration": "140m",
-    "maxDuration": "150m",
+    "minDuration": "140",
+    "maxDuration": "150",
     "imageUrl": "https://cdn2.iconfinder.com/data/icons/car-wash-8/64/air_freshener-car-scent-perfume-512.png"
   },
   {
@@ -105,8 +105,8 @@
     "name": "Esim inch",
     "minPrice": 7000,
     "maxPrice": 9000,
-    "minDuration": "140m",
-    "maxDuration": "150m",
+    "minDuration": "140",
+    "maxDuration": "150",
     "imageUrl": "https://cdn2.iconfinder.com/data/icons/car-wash-8/64/air_freshener-car-scent-perfume-512.png"
   },
   {
@@ -115,8 +115,8 @@
     "name": "A es shat gidem",
     "minPrice": 12000,
     "maxPrice": 15000,
-    "minDuration": "120m",
-    "maxDuration": "130m",
+    "minDuration": "120",
+    "maxDuration": "130",
     "imageUrl": "https://cdn2.iconfinder.com/data/icons/car-wash-8/64/air_freshener-car-scent-perfume-512.png"
   }
 ]

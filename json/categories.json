@@ -3,32 +3,32 @@
     "category": "Outside Wash",
     "minPrice": 2000,
     "maxPrice": 10000,
-    "minDuration": "30m",
-    "maxDuration": "60m",
+    "minDuration": "30",
+    "maxDuration": "60",
     "imageUrl": "https://cdn-icons-png.flaticon.com/512/887/887251.png"
   },
   {
     "category": "Inside Wash",
     "minPrice": 1000,
     "maxPrice": 3000,
-    "minDuration": "10m",
-    "maxDuration": "20m",
+    "minDuration": "10",
+    "maxDuration": "20",
     "imageUrl": "https://cdn-icons-png.flaticon.com/512/887/887251.png"
   },
   {
     "category": "Chem. Wash",
     "minPrice": 5000,
     "maxPrice": 15000,
-    "minDuration": "40m",
-    "maxDuration": "140m",
+    "minDuration": "40",
+    "maxDuration": "140",
     "imageUrl": "https://cdn3.iconfinder.com/data/icons/car-wash-13/64/tire_cleaning-clean-vehicle-512.png"
   },
   {
     "category": "Ceramic Coating",
     "minPrice": 7000,
     "maxPrice": 18000,
-    "minDuration": "80m",
-    "maxDuration": "150m",
+    "minDuration": "80",
+    "maxDuration": "150",
     "imageUrl": "https://png.pngtree.com/png-vector/20230120/ourmid/pngtree-car-drawing-outline-transport-isolated-png-image_6558406.png"
   }
 ]
