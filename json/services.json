@@ -15,7 +15,7 @@
     "name": "Bantajneri paylecum",
     "minPrice": 0,
     "maxPrice": 1000,
-    "minDuration": "5m",
+    "minDuration": "5",
     "maxDuration": "10",
     "imageUrl": "https://cdn3.iconfinder.com/data/icons/car-wash-13/64/tire_cleaning-clean-vehicle-512.png"
   },
@@ -35,7 +35,7 @@
     "name": "Poshekul",
     "minPrice": 0,
     "maxPrice": 1000,
-    "minDuration": "15m",
+    "minDuration": "15",
     "maxDuration": "30",
     "imageUrl": "https://png.pngtree.com/png-clipart/20230331/original/pngtree-vacuum-cleaner-line-icon-png-image_9013737.png"
   },
