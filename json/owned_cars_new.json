@@ -1,0 +1,24 @@
+[
+  {
+    "id": 0,
+    "default": true,
+    "brandName": "Toyota",
+    "model": "RAV4",
+    "productionYear": 2020,
+    "color": "White",
+    "plateNumber": "02TT007",
+    "logoImageUrl": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
+    "type" : "CROSSOVER"
+  },
+  {
+    "id": 1,
+    "default": false,
+    "brandName": "BMW",
+    "model": "X5",
+    "productionYear": 2022,
+    "color": "Black",
+    "plateNumber": "07XX007",
+    "logoImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/640px-BMW.svg.png",
+    "type" : "SEDAN"
+  }
+]
