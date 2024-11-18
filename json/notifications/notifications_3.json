@@ -1,0 +1,30 @@
+{
+  "data": [
+    {
+      "id": "21",
+      "user_id": "user1",
+      "subject": "Subject 21",
+      "message": "This is the message for notification 21.",
+      "date": "2024-11-19T09:00:00.000Z",
+      "is_read": true
+    },
+    {
+      "id": "22",
+      "user_id": "user1",
+      "subject": "Subject 22",
+      "message": "This is the message for notification 22.",
+      "date": "2024-11-19T10:00:00.000Z",
+      "is_read": false
+    },
+    {
+      "id": "23",
+      "user_id": "user1",
+      "subject": "Subject 23",
+      "message": "This is the message for notification 23.",
+      "date": "2024-11-19T11:00:00.000Z",
+      "is_read": true
+    }
+  ],
+  "total": 3,
+  "next_page_url": null
+}
