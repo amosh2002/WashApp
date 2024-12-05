@@ -17,18 +17,6 @@
       "cardType": "American Express",
       "maskedNumber": "**** **** **** 5678",
       "isDefault": false
-    },
-    {
-      "id": "4",
-      "cardType": "Discover",
-      "maskedNumber": "**** **** **** 4321",
-      "isDefault": false
-    },
-    {
-      "id": "5",
-      "cardType": "UnionPay",
-      "maskedNumber": "**** **** **** 8765",
-      "isDefault": false
     }
   ]
 }
