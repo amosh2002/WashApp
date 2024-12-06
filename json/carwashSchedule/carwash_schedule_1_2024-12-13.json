@@ -1,6 +1,22 @@
 {
   "schedule": [
     {
+      "timeslot": "12:00:00",
+      "booking": {}
+    },
+    {
+      "timeslot": "12:15:00",
+      "booking": {}
+    },
+    {
+      "timeslot": "12:30:00",
+      "booking": {}
+    },
+    {
+      "timeslot": "12:45:00",
+      "booking": {}
+    },
+    {
       "timeslot": "13:15:00",
       "booking": {
         "booking_id": "123",
@@ -129,6 +145,10 @@
       }
     },
     {
+      "timeslot": "15:15:00",
+      "booking": {}
+    },
+    {
       "timeslot": "15:30:00",
       "booking": {
         "booking_id": "123",
@@ -180,12 +200,48 @@
       }
     },
     {
+      "timeslot": "16:00:00",
+      "booking": {}
+    },
+    {
+      "timeslot": "16:15:00",
+      "booking": {}
+    },
+    {
+      "timeslot": "16:30:00",
+      "booking": {}
+    },
+    {
+      "timeslot": "16:45:00",
+      "booking": {}
+    },
+    {
+      "timeslot": "17:00:00",
+      "booking": {}
+    },
+    {
+      "timeslot": "17:15:00",
+      "booking": {}
+    },
+    {
+      "timeslot": "17:30:00",
+      "booking": {}
+    },
+    {
+      "timeslot": "17:45:00",
+      "booking": {}
+    },
+    {
+      "timeslot": "18:00:00",
+      "booking": {}
+    },
+    {
       "timeslot": "18:15:00",
       "booking": {
         "booking_id": "123",
         "date": "2024-12-12",
         "start_time": "18:15:00",
-        "end_time": "18:30:00",
+        "end_time": "20:30:00",
         "booking_status": "CONFIRMED",
         "user_id": "111",
         "services": [
@@ -242,6 +298,34 @@
         },
         "car_wash_id": "1"
       }
+    },
+    {
+      "timeslot": "20:45:00",
+      "booking": {}
+    },
+    {
+      "timeslot": "20:45:00",
+      "booking": {}
+    },
+    {
+      "timeslot": "21:00:00",
+      "booking": {}
+    },
+    {
+      "timeslot": "21:15:00",
+      "booking": {}
+    },
+    {
+      "timeslot": "21:30:00",
+      "booking": {}
+    },
+    {
+      "timeslot": "21:45:00",
+      "booking": {}
+    },
+    {
+      "timeslot": "22:00:00",
+      "booking": {}
     },
     {
       "timeslot": "22:15:00",
