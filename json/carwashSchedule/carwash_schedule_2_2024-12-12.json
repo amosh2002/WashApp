@@ -194,6 +194,18 @@
       }
     },
     {
+      "timeslot": "14:45:00",
+      "booking": {}
+    },
+    {
+      "timeslot": "15:50:00",
+      "booking": {}
+    },
+    {
+      "timeslot": "15:15:00",
+      "booking": {}
+    },
+    {
       "timeslot": "15:30:00",
       "booking": {
         "booking_id": "123",
@@ -243,6 +255,26 @@
         },
         "car_wash_id": "1"
       }
+    },
+    {
+      "timeslot": "16:00:00",
+      "booking": {}
+    },
+    {
+      "timeslot": "16:15:00",
+      "booking": {}
+    },
+    {
+      "timeslot": "16:30:00",
+      "booking": {}
+    },
+    {
+      "timeslot": "16:45:00",
+      "booking": {}
+    },
+    {
+      "timeslot": "17:00:00",
+      "booking": {}
     },
     {
       "timeslot": "17:15:00",
@@ -499,6 +531,10 @@
         },
         "car_wash_id": "1"
       }
+    },
+    {
+      "timeslot": "19:45:00",
+      "booking": {}
     }
   ],
   "car_wash_box_count": 3
