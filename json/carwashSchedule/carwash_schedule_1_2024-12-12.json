@@ -1,0 +1,248 @@
+{
+  "schedule": [
+    {
+      "timeslot": "13:45:00",
+      "booking": {
+        "booking_id": "123",
+        "date": "2024-12-12",
+        "start_time": "13:45:00",
+        "end_time": "15:00:00",
+        "booking_status": "CONFIRMED",
+        "user_id": "111",
+        "services": [
+          {
+            "service_id": "1",
+            "service_name": "Makerevuyti lvacum",
+            "service_category": "Outside Wash",
+            "sedan_specifics": {
+              "price": 2000,
+              "duration": 45
+            },
+            "crossover_specifics": {
+              "price": 3000,
+              "duration": 60
+            }
+          },
+          {
+            "service_id": "2",
+            "service_name": "Bantajneri paylecum",
+            "service_category": "Outside Wash",
+            "sedan_specifics": {
+              "price": 1000,
+              "duration": 15
+            },
+            "crossover_specifics": {
+              "price": 1000,
+              "duration": 15
+            }
+          },
+          {
+            "service_id": "3",
+            "service_name": "Vosk",
+            "service_category": "Outside Wash",
+            "sedan_specifics": {
+              "price": 3000,
+              "duration": 30
+            },
+            "crossover_specifics": {
+              "price": 3000,
+              "duration": 30
+            }
+          }
+        ],
+        "car": {
+          "id": "1",
+          "default": true,
+          "brand_name": "Toyota",
+          "model": "RAV4",
+          "plate_number": "44XX444",
+          "production_year": "2018",
+          "color": "White",
+          "logo_image_url": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
+          "type": "CROSSOVER"
+        },
+        "car_wash_id": "1"
+      }
+    },
+    {
+      "timeslot": "15:30:00",
+      "booking": {
+        "booking_id": "123",
+        "date": "2024-12-12",
+        "start_time": "15:30:00",
+        "end_time": "15:45:00",
+        "booking_status": "CONFIRMED",
+        "user_id": "111",
+        "services": [
+          {
+            "service_id": "1",
+            "service_name": "Makerevuyti lvacum",
+            "service_category": "Outside Wash",
+            "sedan_specifics": {
+              "price": 2000,
+              "duration": 45
+            },
+            "crossover_specifics": {
+              "price": 3000,
+              "duration": 60
+            }
+          },
+          {
+            "service_id": "2",
+            "service_name": "Bantajneri paylecum",
+            "service_category": "Outside Wash",
+            "sedan_specifics": {
+              "price": 1000,
+              "duration": 15
+            },
+            "crossover_specifics": {
+              "price": 1000,
+              "duration": 15
+            }
+          }
+        ],
+        "car": {
+          "id": "1",
+          "default": true,
+          "brand_name": "Toyota",
+          "model": "RAV4",
+          "plate_number": "44XX444",
+          "production_year": "2018",
+          "color": "White",
+          "logo_image_url": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
+          "type": "CROSSOVER"
+        },
+        "car_wash_id": "1"
+      }
+    },
+    {
+      "timeslot": "17:15:00",
+      "booking": {
+        "booking_id": "123",
+        "date": "2024-12-12",
+        "start_time": "17:15:00",
+        "end_time": "18:00:00",
+        "booking_status": "CONFIRMED",
+        "user_id": "111",
+        "services": [
+          {
+            "service_id": "2",
+            "service_name": "Bantajneri paylecum",
+            "service_category": "Outside Wash",
+            "sedan_specifics": {
+              "price": 1000,
+              "duration": 15
+            },
+            "crossover_specifics": {
+              "price": 1000,
+              "duration": 15
+            }
+          },
+          {
+            "service_id": "3",
+            "service_name": "Vosk",
+            "service_category": "Outside Wash",
+            "sedan_specifics": {
+              "price": 3000,
+              "duration": 30
+            },
+            "crossover_specifics": {
+              "price": 3000,
+              "duration": 30
+            }
+          },
+          {
+            "service_id": "4",
+            "service_name": "Poshekul",
+            "service_category": "Inside Wash",
+            "sedan_specifics": {
+              "price": 3000,
+              "duration": 30
+            },
+            "crossover_specifics": {
+              "price": 3000,
+              "duration": 30
+            }
+          }
+        ],
+        "car": {
+          "id": "1",
+          "default": true,
+          "brand_name": "Toyota",
+          "model": "RAV4",
+          "plate_number": "44XX444",
+          "production_year": "2018",
+          "color": "White",
+          "logo_image_url": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
+          "type": "CROSSOVER"
+        },
+        "car_wash_id": "1"
+      }
+    },
+    {
+      "timeslot": "17:15:00",
+      "booking": {
+        "booking_id": "123",
+        "date": "2024-12-12",
+        "start_time": "17:15:00",
+        "end_time": "18:30:00",
+        "booking_status": "CONFIRMED",
+        "user_id": "111",
+        "services": [
+          {
+            "service_id": "1",
+            "service_name": "Makerevuyti lvacum",
+            "service_category": "Outside Wash",
+            "sedan_specifics": {
+              "price": 2000,
+              "duration": 45
+            },
+            "crossover_specifics": {
+              "price": 3000,
+              "duration": 60
+            }
+          },
+          {
+            "service_id": "2",
+            "service_name": "Bantajneri paylecum",
+            "service_category": "Outside Wash",
+            "sedan_specifics": {
+              "price": 1000,
+              "duration": 15
+            },
+            "crossover_specifics": {
+              "price": 1000,
+              "duration": 15
+            }
+          },
+          {
+            "service_id": "3",
+            "service_name": "Vosk",
+            "service_category": "Outside Wash",
+            "sedan_specifics": {
+              "price": 3000,
+              "duration": 30
+            },
+            "crossover_specifics": {
+              "price": 3000,
+              "duration": 30
+            }
+          }
+        ],
+        "car": {
+          "id": "1",
+          "default": true,
+          "brand_name": "Toyota",
+          "model": "RAV4",
+          "plate_number": "44XX444",
+          "production_year": "2018",
+          "color": "White",
+          "logo_image_url": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
+          "type": "CROSSOVER"
+        },
+        "car_wash_id": "1"
+      }
+    }
+  ],
+  "car_wash_box_count": 2
+}
