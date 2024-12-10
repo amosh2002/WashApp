@@ -29,7 +29,7 @@
     "productionYear": "2008",
     "color": "Silver",
     "plateNumber": "12 EE 123",
-    "logoImageUrl": "https://e7.pngegg.com/pngimages/3/495/png-clipart-audi-rs-2-avant-car-volkswagen-audi-a6-audi-text-logo.png",
+    "logoImageUrl": "https://pngimg.com/d/car_logo_PNG1640.png",
     "type": "CROSSOVER"
   },
   {
@@ -62,7 +62,18 @@
     "productionYear": "2023",
     "color": "White",
     "plateNumber": "345 VR 03",
-    "logoImageUrl": "https://w7.pngwing.com/pngs/409/855/png-transparent-mercedes-logo-logo-mercedes-benz-logo-vector-diagram.png",
+    "logoImageUrl": "https://logodownload.org/wp-content/uploads/2014/04/mercedes-benz-logo-0.png",
+    "type": "CROSSOVER"
+  },
+  {
+    "id": 6,
+    "default": false,
+    "brandName": "Toyota",
+    "model": "Highlander",
+    "productionYear": "2021",
+    "color": "White",
+    "plateNumber": "23 VV 089",
+    "logoImageUrl": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
     "type": "CROSSOVER"
   }
 ]
