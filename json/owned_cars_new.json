@@ -88,7 +88,73 @@
     "type": "CROSSOVER"
   },
   {
-    "id": 7,
+    "id": 8,
+    "default": false,
+    "brandName": "Toyota",
+    "model": "Highlander",
+    "productionYear": "2021",
+    "color": "White",
+    "plateNumber": "23 VV 089",
+    "logoImageUrl": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
+    "type": "CROSSOVER"
+  },
+  {
+    "id": 8,
+    "default": false,
+    "brandName": "Toyota",
+    "model": "Highlander",
+    "productionYear": "2021",
+    "color": "White",
+    "plateNumber": "23 VV 089",
+    "logoImageUrl": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
+    "type": "CROSSOVER"
+  },
+  {
+    "id": 9,
+    "default": false,
+    "brandName": "Toyota",
+    "model": "Highlander",
+    "productionYear": "2021",
+    "color": "White",
+    "plateNumber": "23 VV 089",
+    "logoImageUrl": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
+    "type": "CROSSOVER"
+  },
+  {
+    "id": 10,
+    "default": false,
+    "brandName": "Toyota",
+    "model": "Highlander",
+    "productionYear": "2021",
+    "color": "White",
+    "plateNumber": "23 VV 089",
+    "logoImageUrl": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
+    "type": "CROSSOVER"
+  },
+  {
+    "id": 1,
+    "default": false,
+    "brandName": "Toyota",
+    "model": "Highlander",
+    "productionYear": "2021",
+    "color": "White",
+    "plateNumber": "23 VV 089",
+    "logoImageUrl": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
+    "type": "CROSSOVER"
+  },
+  {
+    "id": 12,
+    "default": false,
+    "brandName": "Toyota",
+    "model": "Highlander",
+    "productionYear": "2021",
+    "color": "White",
+    "plateNumber": "23 VV 089",
+    "logoImageUrl": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
+    "type": "CROSSOVER"
+  },
+  {
+    "id": 13,
     "default": false,
     "brandName": "Toyota",
     "model": "Highlander",
