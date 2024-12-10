@@ -6,9 +6,9 @@
     "model": "RAV4",
     "productionYear": "2020",
     "color": "White",
-    "plateNumber": "02TT007",
+    "plateNumber": "02 TT 007",
     "logoImageUrl": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
-    "type" : "CROSSOVER"
+    "type": "CROSSOVER"
   },
   {
     "id": 1,
@@ -17,8 +17,52 @@
     "model": "X5",
     "productionYear": "2022",
     "color": "Black",
-    "plateNumber": "07XX007",
+    "plateNumber": "07 XX 007",
     "logoImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/640px-BMW.svg.png",
-    "type" : "SEDAN"
+    "type": "SEDAN"
+  },
+  {
+    "id": 2,
+    "default": false,
+    "brandName": "Audi",
+    "model": "Q7",
+    "productionYear": 2008,
+    "color": "Silver",
+    "plateNumber": "12 EE 123",
+    "logoImageUrl": "https://e7.pngegg.com/pngimages/3/495/png-clipart-audi-rs-2-avant-car-volkswagen-audi-a6-audi-text-logo.png",
+    "type": "CROSSOVER"
+  },
+  {
+    "id": 3,
+    "default": false,
+    "brandName": "BMW",
+    "model": "X7",
+    "productionYear": 2012,
+    "color": "Black",
+    "plateNumber": "04 XX 004",
+    "logoImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/640px-BMW.svg.png",
+    "type": "CROSSOVER"
+  },
+  {
+    "id": 4,
+    "default": false,
+    "brandName": "BMW",
+    "model": "M3",
+    "productionYear": 2024,
+    "color": "Diamond",
+    "plateNumber": "02 RR 001",
+    "logoImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/640px-BMW.svg.png",
+    "type": "SEDAN"
+  },
+  {
+    "id": 5,
+    "default": false,
+    "brandName": "Mercedes-Benz",
+    "model": "EQC",
+    "productionYear": 2023,
+    "color": "White",
+    "plateNumber": "345 VR 03",
+    "logoImageUrl": "https://w7.pngwing.com/pngs/409/855/png-transparent-mercedes-logo-logo-mercedes-benz-logo-vector-diagram.png",
+    "type": "CROSSOVER"
   }
 ]
