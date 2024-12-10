@@ -39,7 +39,7 @@
       "booking": {
         "is_booked_by_carwash": false,
         "booking_id": "123",
-        "date": "2024-12-12",
+        "date": "2024-12-13",
         "start_time": "13:30:00",
         "end_time": "13:45:00",
         "booking_status": "CONFIRMED",
@@ -104,7 +104,7 @@
       "booking": {
         "is_booked_by_carwash": false,
         "booking_id": "123",
-        "date": "2024-12-12",
+        "date": "2024-12-13",
         "start_time": "15:30:00",
         "end_time": "15:45:00",
         "booking_status": "CONFIRMED",
@@ -156,7 +156,7 @@
       "booking": {
         "is_booked_by_carwash": false,
         "booking_id": "123",
-        "date": "2024-12-12",
+        "date": "2024-12-13",
         "start_time": "18:15:00",
         "end_time": "20:30:00",
         "booking_status": "CONFIRMED",
@@ -221,7 +221,7 @@
       "booking": {
         "is_booked_by_carwash": false,
         "booking_id": "123",
-        "date": "2024-12-12",
+        "date": "2024-12-13",
         "start_time": "19:00:00",
         "end_time": "19:45:00",
         "booking_status": "CONFIRMED",
@@ -286,7 +286,7 @@
       "booking": {
         "is_booked_by_carwash": false,
         "booking_id": "123",
-        "date": "2024-12-12",
+        "date": "2024-12-13",
         "start_time": "22:15:00",
         "end_time": "23:30:00",
         "booking_status": "CONFIRMED",
