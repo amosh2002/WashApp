@@ -88,12 +88,12 @@
         "car": {
           "id": "1",
           "default": true,
-          "brand_name": "Toyota",
-          "model": "RAV4",
+          "brand_name": "BMW",
+          "model": "X5",
           "plate_number": "44XX444",
           "production_year": "2018",
           "color": "White",
-          "logo_image_url": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
+          "logo_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/640px-BMW.svg.png",
           "type": "CROSSOVER"
         },
         "car_wash_id": "1"
@@ -127,6 +127,58 @@
             "service_id": "2",
             "service_name": "Bantajneri paylecum",
             "service_category": "Outside Wash",
+            "sedan_specifics": {
+              "price": 1000,
+              "duration": 15
+            },
+            "crossover_specifics": {
+              "price": 1000,
+              "duration": 15
+            }
+          }
+        ],
+        "car": {
+          "id": "1",
+          "default": true,
+          "brand_name": "Toyota",
+          "model": "RAV4",
+          "plate_number": "44XX444",
+          "production_year": "2018",
+          "color": "White",
+          "logo_image_url": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
+          "type": "CROSSOVER"
+        },
+        "car_wash_id": "1"
+      }
+    },
+    {
+      "timeslot": "15:30:00",
+      "booking": {
+        "is_booked_by_carwash": false,
+        "booking_id": "123",
+        "date": "2024-12-13",
+        "start_time": "15:30:00",
+        "end_time": "16:15:00",
+        "booking_status": "CONFIRMED",
+        "user_id": "111",
+        "services": [
+          {
+            "service_id": "1",
+            "service_name": "Makerevuyti lvacum",
+            "service_category": "Outside Wash",
+            "sedan_specifics": {
+              "price": 2000,
+              "duration": 45
+            },
+            "crossover_specifics": {
+              "price": 3000,
+              "duration": 60
+            }
+          },
+          {
+            "service_id": "2",
+            "service_name": "Bantajneri paylecum",
+            "service_category": "Chemical Wash",
             "sedan_specifics": {
               "price": 1000,
               "duration": 15
@@ -211,6 +263,71 @@
           "production_year": "2018",
           "color": "White",
           "logo_image_url": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
+          "type": "CROSSOVER"
+        },
+        "car_wash_id": "1"
+      }
+    },
+    {
+      "timeslot": "16:30:00",
+      "booking": {
+        "is_booked_by_carwash": false,
+        "booking_id": "123",
+        "date": "2024-12-13",
+        "start_time": "16:30:00",
+        "end_time": "19:15:00",
+        "booking_status": "CONFIRMED",
+        "user_id": "111",
+        "services": [
+          {
+            "service_id": "1",
+            "service_name": "Makerevuyti lvacum",
+            "service_category": "Outside Wash",
+            "sedan_specifics": {
+              "price": 2000,
+              "duration": 45
+            },
+            "crossover_specifics": {
+              "price": 3000,
+              "duration": 60
+            }
+          },
+          {
+            "service_id": "2",
+            "service_name": "Bantajneri paylecum",
+            "service_category": "Chemical Wash",
+            "sedan_specifics": {
+              "price": 1000,
+              "duration": 15
+            },
+            "crossover_specifics": {
+              "price": 1000,
+              "duration": 15
+            }
+          },
+          {
+            "service_id": "2",
+            "service_name": "Ceramic Coatingulik",
+            "service_category": "Ceramic Coating",
+            "sedan_specifics": {
+              "price": 1000,
+              "duration": 15
+            },
+            "crossover_specifics": {
+              "price": 1000,
+              "duration": 15
+            }
+          }
+        ],
+        "car": {
+          "id": "1",
+          "default": true,
+          "brand_name": "Merco",
+          "model": "C500",
+          "plate_number": "44XX444",
+          "production_year": "2018",
+          "color": "White",
+          "logo_image_url": "https://logodownload.org/wp-content/uploads/2014/04/mercedes-benz-logo-0.png",
           "type": "CROSSOVER"
         },
         "car_wash_id": "1"
@@ -345,7 +462,72 @@
         },
         "car_wash_id": "1"
       }
+    },
+    {
+      "timeslot": "22:15:00",
+      "booking": {
+        "is_booked_by_carwash": false,
+        "booking_id": "123",
+        "date": "2024-12-13",
+        "start_time": "22:15:00",
+        "end_time": "23:30:00",
+        "booking_status": "CONFIRMED",
+        "user_id": "111",
+        "services": [
+          {
+            "service_id": "1",
+            "service_name": "Makerevuyti lvacum",
+            "service_category": "Outside Wash",
+            "sedan_specifics": {
+              "price": 2000,
+              "duration": 45
+            },
+            "crossover_specifics": {
+              "price": 3000,
+              "duration": 60
+            }
+          },
+          {
+            "service_id": "2",
+            "service_name": "Bantajneri paylecum",
+            "service_category": "Outside Wash",
+            "sedan_specifics": {
+              "price": 1000,
+              "duration": 15
+            },
+            "crossover_specifics": {
+              "price": 1000,
+              "duration": 15
+            }
+          },
+          {
+            "service_id": "3",
+            "service_name": "Vosk",
+            "service_category": "Ceramic Coating",
+            "sedan_specifics": {
+              "price": 3000,
+              "duration": 30
+            },
+            "crossover_specifics": {
+              "price": 3000,
+              "duration": 30
+            }
+          }
+        ],
+        "car": {
+          "id": "1",
+          "default": true,
+          "brand_name": "Toyota",
+          "model": "RAV4",
+          "plate_number": "44XX444",
+          "production_year": "2018",
+          "color": "White",
+          "logo_image_url": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
+          "type": "CROSSOVER"
+        },
+        "car_wash_id": "1"
+      }
     }
   ],
-  "car_wash_box_count": 2
+  "car_wash_box_count": 7
 }
