@@ -207,7 +207,7 @@
       "timeslot": "15:30:00",
       "booking": {
         "is_booked_by_carwash": false,
-        "booking_id": "123",
+        "booking_id": "12377",
         "date": "2024-12-13",
         "start_time": "15:30:00",
         "end_time": "16:00:00",
