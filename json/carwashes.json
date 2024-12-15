@@ -3,11 +3,11 @@
     "objectId": 0,
     "name": "Ararat Auto Spa",
     "address": "Կողբացի 64",
-    "rating": 4.5,
+    "rating": 5,
     "ratingCount": 8,
     "workHours": "11:00 - 00:00",
     "isPromoted": true,
-    "imageUrl": "https://www.treehugger.com/thmb/nzRvmJ0mm74oRku8JSCA7LwppTo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2019__07__commercial_car_wash-1d8498e0ea964ffc91eeab5b48c1265b.jpg"
+    "imageUrl": "https://img.freepik.com/premium-photo/blue-car-being-washed-car-wash-station_662214-527868.jpg"
   },
   {
     "objectId": 1,
@@ -15,7 +15,7 @@
     "address": "Shoshe խճուղի 1",
     "rating": 4.3,
     "ratingCount": 12,
-    "workHours": "10:00 - 23:00",
+    "workHours": "09:00 - 04:00",
     "imageUrl": "https://www.treehugger.com/thmb/nzRvmJ0mm74oRku8JSCA7LwppTo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2019__07__commercial_car_wash-1d8498e0ea964ffc91eeab5b48c1265b.jpg"
   },
   {
@@ -26,36 +26,34 @@
     "ratingCount": 12,
     "workHours": "10:00 - 23:00",
     "isPromoted": true,
-    "imageUrl": "https://www.treehugger.com/thmb/nzRvmJ0mm74oRku8JSCA7LwppTo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2019__07__commercial_car_wash-1d8498e0ea964ffc91eeab5b48c1265b.jpg"
+    "imageUrl": "https://www.slashgear.com/img/gallery/5-of-the-best-car-wash-soaps-for-your-vehicle/l-intro-1705512855.jpg"
   },
   {
     "objectId": 3,
     "name": "KAK 3",
     "address": "Halabuya խճուղի 1",
     "rating": 4.0,
-    "ratingCount": 12,
-    "workHours": "10:00 - 23:00",
-    "imageUrl": "https://www.treehugger.com/thmb/nzRvmJ0mm74oRku8JSCA7LwppTo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2019__07__commercial_car_wash-1d8498e0ea964ffc91eeab5b48c1265b.jpg"
+    "ratingCount": 22,
+    "workHours": "10:00 - 02:30",
+    "imageUrl": "https://static.vecteezy.com/system/resources/thumbnails/039/664/930/small_2x/ai-generated-close-up-of-professional-car-wash-black-sports-car-being-shampooed-for-a-sparkling-clean-finish-free-photo.jpg"
   },
   {
     "objectId": 4,
     "name": "LOLIK 4",
     "address": "Աբովյան 1",
-    "rating": 4.3,
-    "ratingCount": 12,
-    "workHours": "10:00 - 23:00",
-    "isPromoted": true,
-    "imageUrl": "https://www.treehugger.com/thmb/nzRvmJ0mm74oRku8JSCA7LwppTo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2019__07__commercial_car_wash-1d8498e0ea964ffc91eeab5b48c1265b.jpg"
-  }
-  ,
+    "rating": 5,
+    "ratingCount": 4,
+    "workHours": "13:00 - 23:30",
+    "imageUrl": "https://blog.way.com/wp-content/uploads/2021/10/professional-car-wash-1.jpg"
+  },
   {
     "objectId": 5,
     "name": "Iniesta 4",
     "address": "Աբովյան խճուղի 1",
-    "rating": 4.3,
-    "ratingCount": 12,
+    "rating": 2,
+    "ratingCount": 62,
     "workHours": "10:00 - 23:00",
     "isPromoted": true,
-    "imageUrl": "https://www.treehugger.com/thmb/nzRvmJ0mm74oRku8JSCA7LwppTo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2019__07__commercial_car_wash-1d8498e0ea964ffc91eeab5b48c1265b.jpg"
+    "imageUrl": "https://tommys-express.com/wp-content/uploads/2023/01/tunnel.jpg"
   }
 ]
