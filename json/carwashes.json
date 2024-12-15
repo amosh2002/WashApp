@@ -1,8 +1,8 @@
 [
   {
     "objectId": 0,
-    "name": "Ararat Auto Spa",
-    "address": "Կողբացի 64",
+    "name": "TSUM",
+    "address": "14/1 Northern Avenue",
     "rating": 5,
     "ratingCount": 8,
     "workHours": "11:00 - 00:00",
@@ -11,8 +11,8 @@
   },
   {
     "objectId": 1,
-    "name": "Ավտոմաշին 1",
-    "address": "Shoshe խճուղի 1",
+    "name": "Elite",
+    "address": "3 Byron street",
     "rating": 4.3,
     "ratingCount": 12,
     "workHours": "09:00 - 04:00",
@@ -20,8 +20,8 @@
   },
   {
     "objectId": 2,
-    "name": "DUDU 2",
-    "address": "Warsaw խճուղի 1",
+    "name": "Leo 1 AutoSpa",
+    "address": "1 Leo street",
     "rating": 4.1,
     "ratingCount": 12,
     "workHours": "10:00 - 23:00",
@@ -30,8 +30,8 @@
   },
   {
     "objectId": 3,
-    "name": "KAK 3",
-    "address": "Halabuya խճուղի 1",
+    "name": "22A Abovyan street",
+    "address": "22A Abovyan street",
     "rating": 4.0,
     "ratingCount": 22,
     "workHours": "10:00 - 02:30",
@@ -39,8 +39,8 @@
   },
   {
     "objectId": 4,
-    "name": "LOLIK 4",
-    "address": "Աբովյան 1",
+    "name": "4 Nor Aresh 2nd street",
+    "address": "4 Nor Aresh 2nd street",
     "rating": 5,
     "ratingCount": 4,
     "workHours": "13:00 - 23:30",
@@ -48,8 +48,8 @@
   },
   {
     "objectId": 5,
-    "name": "Iniesta 4",
-    "address": "Աբովյան խճուղի 1",
+    "name": "3 Mher Mkrtchyan street",
+    "address": "3 Mher Mkrtchyan street",
     "rating": 2,
     "ratingCount": 62,
     "workHours": "10:00 - 23:00",
