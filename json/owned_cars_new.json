@@ -46,122 +46,12 @@
   {
     "id": 4,
     "default": false,
-    "brandName": "BMW",
-    "model": "M3",
-    "productionYear": "2024",
-    "color": "Diamond",
-    "plateNumber": "02 RR 001",
-    "logoImageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/640px-BMW.svg.png",
-    "type": "SEDAN"
-  },
-  {
-    "id": 5,
-    "default": false,
     "brandName": "Mercedes-Benz",
     "model": "EQC",
     "productionYear": "2023",
     "color": "White",
     "plateNumber": "345 VR 03",
     "logoImageUrl": "https://logodownload.org/wp-content/uploads/2014/04/mercedes-benz-logo-0.png",
-    "type": "CROSSOVER"
-  },
-  {
-    "id": 6,
-    "default": false,
-    "brandName": "Toyota",
-    "model": "Highlander",
-    "productionYear": "2021",
-    "color": "White",
-    "plateNumber": "23 VV 089",
-    "logoImageUrl": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
-    "type": "CROSSOVER"
-  },
-  {
-    "id": 7,
-    "default": false,
-    "brandName": "Toyota",
-    "model": "Highlander",
-    "productionYear": "2021",
-    "color": "White",
-    "plateNumber": "23 VV 089",
-    "logoImageUrl": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
-    "type": "CROSSOVER"
-  },
-  {
-    "id": 8,
-    "default": false,
-    "brandName": "Toyota",
-    "model": "Highlander",
-    "productionYear": "2021",
-    "color": "White",
-    "plateNumber": "23 VV 089",
-    "logoImageUrl": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
-    "type": "CROSSOVER"
-  },
-  {
-    "id": 9,
-    "default": false,
-    "brandName": "Toyota",
-    "model": "Highlander",
-    "productionYear": "2021",
-    "color": "White",
-    "plateNumber": "23 VV 089",
-    "logoImageUrl": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
-    "type": "CROSSOVER"
-  },
-  {
-    "id": 10,
-    "default": false,
-    "brandName": "Toyota",
-    "model": "Highlander",
-    "productionYear": "2021",
-    "color": "White",
-    "plateNumber": "23 VV 089",
-    "logoImageUrl": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
-    "type": "CROSSOVER"
-  },
-  {
-    "id": 11,
-    "default": false,
-    "brandName": "Toyota",
-    "model": "Highlander",
-    "productionYear": "2021",
-    "color": "White",
-    "plateNumber": "23 VV 089",
-    "logoImageUrl": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
-    "type": "CROSSOVER"
-  },
-  {
-    "id": 12,
-    "default": false,
-    "brandName": "Toyota",
-    "model": "Highlander",
-    "productionYear": "2021",
-    "color": "White",
-    "plateNumber": "23 VV 089",
-    "logoImageUrl": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
-    "type": "CROSSOVER"
-  },
-  {
-    "id": 13,
-    "default": false,
-    "brandName": "Toyota",
-    "model": "Highlander",
-    "productionYear": "2021",
-    "color": "White",
-    "plateNumber": "23 VV 089",
-    "logoImageUrl": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
-    "type": "CROSSOVER"
-  },
-  {
-    "id": 14,
-    "default": false,
-    "brandName": "Toyota",
-    "model": "Highlander",
-    "productionYear": "2021",
-    "color": "White",
-    "plateNumber": "23 VV 089",
-    "logoImageUrl": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
     "type": "CROSSOVER"
   }
 ]
