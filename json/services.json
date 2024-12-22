@@ -2,121 +2,110 @@
   {
     "objectId": 1,
     "category": "Outside Wash",
-    "name": "Makerevuyti lvacum",
-    "minPrice": 5000,
-    "maxPrice": 7000,
+    "name": "Standard",
+    "minPrice": 4000,
+    "maxPrice": 6000,
     "minDuration": "30",
     "maxDuration": "60",
-    "imageUrl": "https://cdn-icons-png.flaticon.com/512/887/887251.png"
+    "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/outside_wash__standard.png"
   },
   {
     "objectId": 2,
     "category": "Outside Wash",
-    "name": "Bantajneri paylecum",
-    "minPrice": 0,
-    "maxPrice": 1000,
-    "minDuration": "5",
-    "maxDuration": "10",
-    "imageUrl": "https://cdn3.iconfinder.com/data/icons/car-wash-13/64/tire_cleaning-clean-vehicle-512.png"
+    "name": "Detailed Wash with Shampoo",
+    "minPrice": 2000,
+    "maxPrice": 5000,
+    "minDuration": "45",
+    "maxDuration": "60",
+    "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/outside_wash__shampoo.png"
   },
   {
     "objectId": 3,
     "category": "Outside Wash",
-    "name": "Vosk",
-    "minPrice": 1000,
+    "name": "Under Body Wash",
+    "minPrice": 2000,
     "maxPrice": 3000,
     "minDuration": "10",
     "maxDuration": "20",
-    "imageUrl": "https://png.pngtree.com/png-vector/20230120/ourmid/pngtree-car-drawing-outline-transport-isolated-png-image_6558406.png"
+    "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/outside_wash__under.png"
   },
   {
     "objectId": 4,
-    "category": "Inside Wash",
-    "name": "Poshekul",
-    "minPrice": 0,
-    "maxPrice": 1000,
-    "minDuration": "15",
-    "maxDuration": "30",
-    "imageUrl": "https://png.pngtree.com/png-clipart/20230331/original/pngtree-vacuum-cleaner-line-icon-png-image_9013737.png"
+    "category": "Outside Wash",
+    "name": "Engine Wash",
+    "minPrice": 5000,
+    "maxPrice": 6000,
+    "minDuration": "10",
+    "maxDuration": "20",
+    "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/outside_wash__engine.png"
   },
   {
     "objectId": 5,
     "category": "Inside Wash",
-    "name": "Koji krem",
-    "minPrice": 1000,
-    "maxPrice": 2000,
-    "minDuration": "10",
-    "maxDuration": "20",
-    "imageUrl": "https://png.pngtree.com/png-vector/20230120/ourmid/pngtree-car-drawing-outline-transport-isolated-png-image_6558406.png"
+    "name": "Salon Detailed Cleaning",
+    "minPrice": 0,
+    "maxPrice": 1000,
+    "minDuration": "15",
+    "maxDuration": "30",
+    "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/inside_wash__detailed.png"
   },
   {
     "objectId": 6,
     "category": "Inside Wash",
-    "name": "Meqenayi hot",
+    "name": "Leather Seats Cleaning with Conditioner",
     "minPrice": 1000,
-    "maxPrice": 3000,
+    "maxPrice": 2000,
     "minDuration": "10",
-    "maxDuration": "15m",
-    "imageUrl": "https://cdn2.iconfinder.com/data/icons/car-wash-8/64/air_freshener-car-scent-perfume-512.png"
+    "maxDuration": "20",
+    "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/inside_wash__leather.png"
   },
   {
     "objectId": 7,
-    "category": "Chem. Wash",
-    "name": "Plplacum",
-    "minPrice": 10000,
-    "maxPrice": 13000,
-    "minDuration": "140",
+    "category": "Outside Wash",
+    "name": "Shine Wax",
+    "minPrice": 60000,
+    "maxPrice": 150000,
+    "minDuration": "55",
     "maxDuration": "150",
-    "imageUrl": "https://cdn2.iconfinder.com/data/icons/car-wash-8/64/air_freshener-car-scent-perfume-512.png"
+    "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/outsie_wash__wax.png"
   },
   {
     "objectId": 8,
     "category": "Chem. Wash",
-    "name": "Plplacum 2",
-    "minPrice": 10000,
-    "maxPrice": 13000,
-    "minDuration": "140",
-    "maxDuration": "150",
-    "imageUrl": "https://cdn2.iconfinder.com/data/icons/car-wash-8/64/air_freshener-car-scent-perfume-512.png"
+    "name": "Salon Chemical Cleaning",
+    "minPrice": 1000,
+    "maxPrice": 1300,
+    "minDuration": "40",
+    "maxDuration": "60",
+    "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/chemical_wash__salon.png"
   },
   {
     "objectId": 9,
-    "category": "Chem. Wash",
-    "name": "Plplacum 3",
-    "minPrice": 11000,
-    "maxPrice": 17000,
+    "category": "Certamic Coating",
+    "name": "Body Ceramic Coating - 1 Year",
+    "minPrice": 120000,
+    "maxPrice": 150000,
     "minDuration": "140",
     "maxDuration": "150",
-    "imageUrl": "https://cdn2.iconfinder.com/data/icons/car-wash-8/64/air_freshener-car-scent-perfume-512.png"
+    "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/ceramic_coating.png"
   },
   {
     "objectId": 10,
-    "category": "Chem. Wash",
-    "name": "Plplacum 4",
-    "minPrice": 12000,
-    "maxPrice": 15000,
-    "minDuration": "140",
-    "maxDuration": "150",
-    "imageUrl": "https://cdn2.iconfinder.com/data/icons/car-wash-8/64/air_freshener-car-scent-perfume-512.png"
-  },
-  {
+    "category": "Certamic Coating",
+    "name": "Body Ceramic Coating - 2 Years",
+    "minPrice": 200000,
+    "maxPrice": 250000,
+    "minDuration": "180",
+    "maxDuration": "190",
+    "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/ceramic_coating.png"
+  },{
     "objectId": 11,
-    "category": "Ceramic Coating",
-    "name": "Esim inch",
-    "minPrice": 7000,
-    "maxPrice": 9000,
-    "minDuration": "140",
-    "maxDuration": "150",
-    "imageUrl": "https://cdn2.iconfinder.com/data/icons/car-wash-8/64/air_freshener-car-scent-perfume-512.png"
-  },
-  {
-    "objectId": 12,
-    "category": "Ceramic Coating",
-    "name": "A es shat gidem",
-    "minPrice": 12000,
-    "maxPrice": 15000,
-    "minDuration": "120",
-    "maxDuration": "130",
-    "imageUrl": "https://cdn2.iconfinder.com/data/icons/car-wash-8/64/air_freshener-car-scent-perfume-512.png"
+    "category": "Certamic Coating",
+    "name": "Body Ceramic Coating - 3 Years",
+    "minPrice": 300000,
+    "maxPrice": 400000,
+    "minDuration": "200",
+    "maxDuration": "230",
+    "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/ceramic_coating.png"
   }
 ]
