@@ -53,5 +53,16 @@
     "plateNumber": "345 VR 03",
     "logoImageUrl": "https://logodownload.org/wp-content/uploads/2014/04/mercedes-benz-logo-0.png",
     "type": "CROSSOVER"
+  },
+  {
+    "id": "5",
+    "default": false,
+    "brandName": "Toyota",
+    "model": "Highlander",
+    "productionYear": "2021",
+    "color": "White",
+    "plateNumber": "34 VO 031",
+    "logoImageUrl": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
+    "type": "CROSSOVER"
   }
 ]
