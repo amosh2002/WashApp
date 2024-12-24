@@ -1,6 +1,6 @@
 [
   {
-    "objectId": 0,
+    "objectId": "0",
     "brand": "Toyota",
     "model": "RAV4",
     "year": 2020,
@@ -9,7 +9,7 @@
     "imageUrl": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png"
   },
   {
-    "objectId": 1,
+    "objectId": "1",
     "brand": "BMW",
     "model": "X5",
     "year": 2022,
@@ -18,7 +18,7 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/640px-BMW.svg.png"
   },
   {
-    "objectId": 2,
+    "objectId": "2",
     "brand": "Audi",
     "model": "Q7",
     "year": 2008,
@@ -27,7 +27,7 @@
     "imageUrl": "https://e7.pngegg.com/pngimages/3/495/png-clipart-audi-rs-2-avant-car-volkswagen-audi-a6-audi-text-logo.png"
   },
   {
-    "objectId": 3,
+    "objectId": "3",
     "brand": "BMW",
     "model": "X7",
     "year": 2012,
@@ -36,7 +36,7 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/640px-BMW.svg.png"
   },
   {
-    "objectId": 4,
+    "objectId": "4",
     "brand": "BMW",
     "model": "M3",
     "year": 2024,
@@ -45,7 +45,7 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/640px-BMW.svg.png"
   },
   {
-    "objectId": 5,
+    "objectId": "5",
     "brand": "Mercedes-Benz",
     "model": "EQC",
     "year": 2023,
