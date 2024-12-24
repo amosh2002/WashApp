@@ -1,6 +1,6 @@
 [
   {
-    "id": 0,
+    "id": "0",
     "default": true,
     "brandName": "Toyota",
     "model": "RAV4",
@@ -11,7 +11,7 @@
     "type": "CROSSOVER"
   },
   {
-    "id": 1,
+    "id": "1",
     "default": false,
     "brandName": "BMW",
     "model": "X5",
@@ -22,7 +22,7 @@
     "type": "SEDAN"
   },
   {
-    "id": 2,
+    "id": "2",
     "default": false,
     "brandName": "Audi",
     "model": "Q7",
@@ -33,7 +33,7 @@
     "type": "CROSSOVER"
   },
   {
-    "id": 3,
+    "id": "3",
     "default": false,
     "brandName": "BMW",
     "model": "X7",
@@ -44,7 +44,7 @@
     "type": "CROSSOVER"
   },
   {
-    "id": 4,
+    "id": "4",
     "default": false,
     "brandName": "Mercedes-Benz",
     "model": "EQC",
