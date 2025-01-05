@@ -81,7 +81,7 @@
   },
   {
     "objectId": 9,
-    "category": "Certamic Coating",
+    "category": "Ceramic Coating",
     "name": "Body Ceramic Coating - 1 Year",
     "minPrice": 120000,
     "maxPrice": 150000,
@@ -91,7 +91,7 @@
   },
   {
     "objectId": 10,
-    "category": "Certamic Coating",
+    "category": "Ceramic Coating",
     "name": "Body Ceramic Coating - 2 Years",
     "minPrice": 200000,
     "maxPrice": 250000,
@@ -100,7 +100,7 @@
     "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/ceramic_coating.png"
   },{
     "objectId": 11,
-    "category": "Certamic Coating",
+    "category": "Ceramic Coating",
     "name": "Body Ceramic Coating - 3 Years",
     "minPrice": 300000,
     "maxPrice": 400000,
