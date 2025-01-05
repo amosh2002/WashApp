@@ -5,7 +5,7 @@
       "user_id": "user1",
       "subject": "Subject 1",
       "message": "This is the message for notification 1.",
-      "date": "2025-01-05T22:28:00.000Z",
+      "date": "2025-01-05T20:48:00.000Z",
       "is_read": false
     },
     {
@@ -13,7 +13,7 @@
       "user_id": "user1",
       "subject": "Subject 2",
       "message": "This is the message for notification 2.",
-      "date": "2025-01-05T21:28:00.000Z",
+      "date": "2025-01-03T20:49:00.000Z",
       "is_read": true
     },
     {
