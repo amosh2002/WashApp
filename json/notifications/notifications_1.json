@@ -51,7 +51,7 @@
     {
       "id": "7",
       "user_id": "user1",
-      "subject": "Subject 7 Subject 7 Subject 7",
+      "subject": "Subject 7 Subject 7 Subject 7 Subject 7 Subject 7 Subject 7 Subject 7 Subject 7 Subject 7 \n Subject 7 Subject 7 Subject 7",
       "message": "This is the message for notification 7. This is the message for notification 7. This is the message for notification 7.",
       "date": "2024-11-16T15:58:00.000Z",
       "is_read": false
