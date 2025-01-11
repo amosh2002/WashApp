@@ -1,0 +1,388 @@
+{
+  "data": [
+    {
+      "id": "21",
+      "user_id": "1",
+      "resource": {
+        "resource_type": "BOOKING",
+        "resource_id": "resource_001"
+      },
+      "booking_details": {
+        "booking_id": "booking_001",
+        "date": "2024-01-03",
+        "start_time": "10:00",
+        "end_time": "10:30",
+        "booking_status": "PENDING",
+        "user_id": "1",
+        "services": [
+          {
+            "service_id": "1",
+            "service_name": "Standard",
+            "service_category": "Outside Wash",
+            "sedan_specifics": {
+              "price": 4000,
+              "duration": 30
+            },
+            "crossover_specifics": {
+              "price": 6000,
+              "duration": 60
+            }
+          }
+        ],
+        "car": {
+          "id": "0",
+          "default": true,
+          "brand_name": "Toyota",
+          "model": "RAV4",
+          "plate_number": "02 TT 007",
+          "production_year": "2020",
+          "color": "White",
+          "logo_image_url": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
+          "type": "CROSSOVER"
+        },
+        "car_wash_id": "0"
+      },
+      "payment_info": {
+        "payment_transaction_id": "payment_001",
+        "amount": 6000,
+        "payment_type": "CREDIT_CARD"
+      },
+      "status": "CREATED_PRE_PURCHASED"
+    },
+    {
+      "id": "22",
+      "user_id": "1",
+      "resource": {
+        "resource_type": "BOOKING",
+        "resource_id": "resource_002"
+      },
+      "booking_details": {
+        "booking_id": "booking_002",
+        "date": "2024-01-04",
+        "start_time": "11:00",
+        "end_time": "11:45",
+        "booking_status": "PENDING",
+        "user_id": "1",
+        "services": [
+          {
+            "service_id": "2",
+            "service_name": "Detailed Wash with Shampoo",
+            "service_category": "Outside Wash",
+            "sedan_specifics": {
+              "price": 2000,
+              "duration": 45
+            },
+            "crossover_specifics": {
+              "price": 5000,
+              "duration": 60
+            }
+          },
+          {
+            "service_id": "2",
+            "service_name": "Detailed Wash with Shampoo",
+            "service_category": "Outside Wash",
+            "sedan_specifics": {
+              "price": 2000,
+              "duration": 45
+            },
+            "crossover_specifics": {
+              "price": 5000,
+              "duration": 60
+            }
+          }
+        ],
+        "car": {
+          "id": "1",
+          "default": false,
+          "brand_name": "BMW",
+          "model": "X5",
+          "plate_number": "07 XX 007",
+          "production_year": "2022",
+          "color": "Black",
+          "logo_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/640px-BMW.svg.png",
+          "type": "SEDAN"
+        },
+        "car_wash_id": "1"
+      },
+      "payment_info": {
+        "payment_transaction_id": "payment_002",
+        "amount": 2000,
+        "payment_type": "CREDIT_CARD"
+      },
+      "status": "CREATED_PRE_PURCHASED"
+    },
+    {
+      "id": "23",
+      "user_id": "1",
+      "resource": {
+        "resource_type": "BOOKING",
+        "resource_id": "resource_010"
+      },
+      "booking_details": {
+        "booking_id": "booking_010",
+        "date": "2024-01-12",
+        "start_time": "14:00",
+        "end_time": "16:30",
+        "booking_status": "PENDING",
+        "user_id": "1",
+        "services": [
+          {
+            "service_id": "11",
+            "service_name": "Body Ceramic Coating - 3 Years",
+            "service_category": "Ceramic Coating",
+            "sedan_specifics": {
+              "price": 300000,
+              "duration": 200
+            },
+            "crossover_specifics": {
+              "price": 400000,
+              "duration": 230
+            }
+          }
+        ],
+        "car": {
+          "id": "5",
+          "default": false,
+          "brand_name": "Toyota",
+          "model": "Highlander",
+          "plate_number": "34 VO 031",
+          "production_year": "2021",
+          "color": "White",
+          "logo_image_url": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
+          "type": "CROSSOVER"
+        },
+        "car_wash_id": "5"
+      },
+      "payment_info": {
+        "payment_transaction_id": "payment_010",
+        "amount": 400000,
+        "payment_type": "CREDIT_CARD"
+      },
+      "status": "CREATED_PRE_PURCHASED"
+    },
+    {
+      "id": "24",
+      "user_id": "1",
+      "resource": {
+        "resource_type": "BOOKING",
+        "resource_id": "resource_010"
+      },
+      "booking_details": {
+        "booking_id": "booking_010",
+        "date": "2024-01-12",
+        "start_time": "14:00",
+        "end_time": "16:30",
+        "booking_status": "PENDING",
+        "user_id": "1",
+        "services": [
+          {
+            "service_id": "11",
+            "service_name": "Body Ceramic Coating - 3 Years",
+            "service_category": "Ceramic Coating",
+            "sedan_specifics": {
+              "price": 300000,
+              "duration": 200
+            },
+            "crossover_specifics": {
+              "price": 400000,
+              "duration": 230
+            }
+          },
+          {
+            "service_id": "2",
+            "service_name": "Detailed Wash with Shampoo",
+            "service_category": "Outside Wash",
+            "sedan_specifics": {
+              "price": 2000,
+              "duration": 200
+            },
+            "crossover_specifics": {
+              "price": 3000,
+              "duration": 230
+            }
+          },
+          {
+            "service_id": "11",
+            "service_name": "Body Ceramic Coating - 3 Years",
+            "service_category": "Ceramic Coating",
+            "sedan_specifics": {
+              "price": 300000,
+              "duration": 200
+            },
+            "crossover_specifics": {
+              "price": 400000,
+              "duration": 230
+            }
+          }
+        ],
+        "car": {
+          "id": "5",
+          "default": false,
+          "brand_name": "Toyota",
+          "model": "Highlander",
+          "plate_number": "34 VO 031",
+          "production_year": "2021",
+          "color": "White",
+          "logo_image_url": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
+          "type": "CROSSOVER"
+        },
+        "car_wash_id": "5"
+      },
+      "payment_info": {
+        "payment_transaction_id": "payment_010",
+        "amount": 400000,
+        "payment_type": "CREDIT_CARD"
+      },
+      "status": "CREATED_PRE_PURCHASED"
+    },
+    {
+      "id": "25",
+      "user_id": "1",
+      "resource": {
+        "resource_type": "BOOKING",
+        "resource_id": "resource_010"
+      },
+      "booking_details": {
+        "booking_id": "booking_010",
+        "date": "2024-01-12",
+        "start_time": "14:00",
+        "end_time": "16:30",
+        "booking_status": "PENDING",
+        "user_id": "1",
+        "services": [
+          {
+            "service_id": "11",
+            "service_name": "Body Ceramic Coating - 3 Years",
+            "service_category": "Ceramic Coating",
+            "sedan_specifics": {
+              "price": 300000,
+              "duration": 200
+            },
+            "crossover_specifics": {
+              "price": 400000,
+              "duration": 230
+            }
+          }
+        ],
+        "car": {
+          "id": "5",
+          "default": false,
+          "brand_name": "Toyota",
+          "model": "Highlander",
+          "plate_number": "34 VO 031",
+          "production_year": "2021",
+          "color": "White",
+          "logo_image_url": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
+          "type": "CROSSOVER"
+        },
+        "car_wash_id": "5"
+      },
+      "payment_info": {
+        "payment_transaction_id": "payment_010",
+        "amount": 400000,
+        "payment_type": "CREDIT_CARD"
+      },
+      "status": "CREATED_PRE_PURCHASED"
+    },
+    {
+      "id": "26",
+      "user_id": "1",
+      "resource": {
+        "resource_type": "BOOKING",
+        "resource_id": "resource_010"
+      },
+      "booking_details": {
+        "booking_id": "booking_010",
+        "date": "2024-01-12",
+        "start_time": "14:00",
+        "end_time": "16:30",
+        "booking_status": "PENDING",
+        "user_id": "1",
+        "services": [
+          {
+            "service_id": "11",
+            "service_name": "Body Ceramic Coating - 3 Years",
+            "service_category": "Ceramic Coating",
+            "sedan_specifics": {
+              "price": 300000,
+              "duration": 200
+            },
+            "crossover_specifics": {
+              "price": 400000,
+              "duration": 230
+            }
+          }
+        ],
+        "car": {
+          "id": "5",
+          "default": false,
+          "brand_name": "Toyota",
+          "model": "Highlander",
+          "plate_number": "34 VO 031",
+          "production_year": "2021",
+          "color": "White",
+          "logo_image_url": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
+          "type": "CROSSOVER"
+        },
+        "car_wash_id": "5"
+      },
+      "payment_info": {
+        "payment_transaction_id": "payment_010",
+        "amount": 400000,
+        "payment_type": "CREDIT_CARD"
+      },
+      "status": "CREATED_PRE_PURCHASED"
+    },
+    {
+      "id": "27",
+      "user_id": "1",
+      "resource": {
+        "resource_type": "BOOKING",
+        "resource_id": "resource_010"
+      },
+      "booking_details": {
+        "booking_id": "booking_010",
+        "date": "2024-01-12",
+        "start_time": "14:00",
+        "end_time": "16:30",
+        "booking_status": "PENDING",
+        "user_id": "1",
+        "services": [
+          {
+            "service_id": "11",
+            "service_name": "Body Ceramic Coating - 3 Years",
+            "service_category": "Ceramic Coating",
+            "sedan_specifics": {
+              "price": 300000,
+              "duration": 200
+            },
+            "crossover_specifics": {
+              "price": 400000,
+              "duration": 230
+            }
+          }
+        ],
+        "car": {
+          "id": "5",
+          "default": false,
+          "brand_name": "Toyota",
+          "model": "Highlander",
+          "plate_number": "34 VO 031",
+          "production_year": "2021",
+          "color": "White",
+          "logo_image_url": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
+          "type": "CROSSOVER"
+        },
+        "car_wash_id": "5"
+      },
+      "payment_info": {
+        "payment_transaction_id": "payment_010",
+        "amount": 400000,
+        "payment_type": "CREDIT_CARD"
+      },
+      "status": "CREATED_PRE_PURCHASED"
+    }
+  ],
+  "total": 7,
+  "next_page_url": null
+}
