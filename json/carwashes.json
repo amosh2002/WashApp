@@ -9,9 +9,9 @@
     "workHours": "09:00 - 21:30",
     "isPromoted": true,
     "imageUrls": [
-      "https://drive.google.com/file/d/13zzpnisVabyodxgwCFMj_C1jG2wjigRT/view?usp=drive_link",
-      "https://drive.google.com/file/d/13UH5Eg7heoGv_mUdx9tsg4tRC-JfiOdA/view?usp=drive_link",
-      "https://drive.google.com/file/d/189FNW5DKQyC4FtZzACAwM2jLPEmr_B0N/view?usp=drive_link"
+      "https://raw.githubusercontent.com/amosh2002/WashApp/main/json/carwashImages/octo/IMG_1.json",
+      "https://raw.githubusercontent.com/amosh2002/WashApp/main/json/carwashImages/octo/IMG_2.json",
+      "https://raw.githubusercontent.com/amosh2002/WashApp/main/json/carwashImages/octo/IMG_3.json"
     ]
   },
   {
