@@ -1,0 +1,13 @@
+[
+  {
+    "id": "0",
+    "default": true,
+    "brand_name": "Volkswagen",
+    "model": "ID.4",
+    "production_year": "2022",
+    "color": "White",
+    "plate_number": "38 TB 491",
+    "logo_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Volkswagen_logo_2019.svg/1024px-Volkswagen_logo_2019.svg.png",
+    "type": "CROSSOVER"
+  }
+]
