@@ -1,8 +1,23 @@
 [
   {
     "objectId": 0,
-    "name": "TSUM",
-    "address": "14/1 Northern Avenue",
+    "name": "OCTO",
+    "address": "2/7 Melkumov street",
+    "rating": 5,
+    "ratingCount": 24,
+    "isFavorite": true,
+    "workHours": "09:00 - 21:30",
+    "isPromoted": true,
+    "imageUrls": [
+      "https://drive.google.com/file/d/13zzpnisVabyodxgwCFMj_C1jG2wjigRT/view?usp=drive_link",
+      "https://drive.google.com/file/d/13UH5Eg7heoGv_mUdx9tsg4tRC-JfiOdA/view?usp=drive_link",
+      "https://drive.google.com/file/d/189FNW5DKQyC4FtZzACAwM2jLPEmr_B0N/view?usp=drive_link"
+    ]
+  },
+  {
+    "objectId": 1,
+    "name": "11 Northern Avenue",
+    "address": "11 Northern Avenue",
     "rating": 5,
     "ratingCount": 8,
     "isFavorite": true,
@@ -15,9 +30,9 @@
     ]
   },
   {
-    "objectId": 1,
-    "name": "Elite",
-    "address": "3 Byron street",
+    "objectId": 2,
+    "name": "8 Byron street",
+    "address": "8 Byron street",
     "rating": 4.3,
     "ratingCount": 12,
     "workHours": "09:00 - 04:00",
@@ -28,9 +43,9 @@
     ]
   },
   {
-    "objectId": 2,
-    "name": "Leo 1 AutoSpa",
-    "address": "1 Leo street",
+    "objectId": 3,
+    "name": "20 Arshakunyats avenue",
+    "address": "20 Arshakunyats avenue",
     "rating": 4.25,
     "ratingCount": 12,
     "workHours": "10:00 - 23:00",
@@ -42,9 +57,9 @@
     ]
   },
   {
-    "objectId": 3,
-    "name": "22A Abovyan street",
-    "address": "22A Abovyan street",
+    "objectId": 4,
+    "name": "22 Abovyan street",
+    "address": "22 Abovyan street",
     "isFavorite": true,
     "rating": 4.0,
     "ratingCount": 22,
@@ -56,7 +71,7 @@
     ]
   },
   {
-    "objectId": 4,
+    "objectId": 5,
     "name": "4 Nor Aresh 2nd street",
     "address": "4 Nor Aresh 2nd street",
     "rating": 5,
@@ -69,7 +84,7 @@
     ]
   },
   {
-    "objectId": 5,
+    "objectId": 6,
     "name": "3 Mher Mkrtchyan street",
     "address": "3 Mher Mkrtchyan street",
     "rating": 2,
