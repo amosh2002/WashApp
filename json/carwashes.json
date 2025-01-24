@@ -5,6 +5,7 @@
     "address": "2/7 Melkumov street",
     "rating": 5,
     "ratingCount": 24,
+    "distance": 1.2,
     "isFavorite": true,
     "workHours": "09:00 - 21:30",
     "isPromoted": true,
@@ -20,6 +21,7 @@
     "address": "11 Northern Avenue",
     "rating": 5,
     "ratingCount": 8,
+    "distance": 2.3,
     "isFavorite": true,
     "workHours": "11:00 - 00:00",
     "isPromoted": true,
@@ -35,6 +37,7 @@
     "address": "8 Byron street",
     "rating": 4.3,
     "ratingCount": 12,
+    "distance": 2.5,
     "workHours": "09:00 - 04:00",
     "imageUrls": [
       "https://www.treehugger.com/thmb/nzRvmJ0mm74oRku8JSCA7LwppTo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__mnn__imageUrls__2019__07__commercial_car_wash-1d8498e0ea964ffc91eeab5b48c1265b.jpg",
@@ -48,6 +51,7 @@
     "address": "20 Arshakunyats avenue",
     "rating": 4.25,
     "ratingCount": 12,
+    "distance": 3.1,
     "workHours": "10:00 - 23:00",
     "isPromoted": true,
     "imageUrls": [
@@ -63,6 +67,7 @@
     "isFavorite": true,
     "rating": 4.0,
     "ratingCount": 22,
+    "distance": 3.7,
     "workHours": "10:00 - 02:30",
     "imageUrls": [
       "https://static.vecteezy.com/system/resources/thumbnails/039/664/930/small_2x/ai-generated-close-up-of-professional-car-wash-black-sports-car-being-shampooed-for-a-sparkling-clean-finish-free-photo.jpg",
@@ -76,6 +81,7 @@
     "address": "4 Nor Aresh 2nd street",
     "rating": 5,
     "ratingCount": 4,
+    "distance": 5.4,
     "workHours": "13:00 - 23:30",
     "imageUrls": [
       "https://blog.way.com/wp-content/uploads/2021/10/professional-car-wash-1.jpg",
@@ -89,6 +95,7 @@
     "address": "3 Mher Mkrtchyan street",
     "rating": 2,
     "ratingCount": 62,
+    "distance": 5.5,
     "workHours": "10:00 - 23:00",
     "isPromoted": true,
     "imageUrls": [
