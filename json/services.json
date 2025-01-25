@@ -43,8 +43,8 @@
     "objectId": 5,
     "category": "Inside Wash",
     "name": "Salon Detailed Cleaning",
-    "minPrice": 0,
-    "maxPrice": 1000,
+    "minPrice": 1000,
+    "maxPrice": 2000,
     "minDuration": "15",
     "maxDuration": "30",
     "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/inside_wash__detailed.png"
