@@ -3,8 +3,8 @@
     "objectId": 1,
     "category": "Outside Wash",
     "name": "Standard",
-    "minPrice": 4000,
-    "maxPrice": 6000,
+    "minPrice": 7000,
+    "maxPrice": 12000,
     "minDuration": "30",
     "maxDuration": "60",
     "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/outside_wash__standard.png"
@@ -13,8 +13,8 @@
     "objectId": 2,
     "category": "Outside Wash",
     "name": "Detailed Wash with Shampoo",
-    "minPrice": 2000,
-    "maxPrice": 5000,
+    "minPrice": 7000,
+    "maxPrice": 13000,
     "minDuration": "45",
     "maxDuration": "60",
     "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/outside_wash__shampoo.png"
