@@ -88,7 +88,7 @@
   {
     "objectId": 5,
     "name": "Tumanyan street",
-    "address": "Tumanyan street (Underground parking near Opera Theatre)",
+    "address": "Underground parking near Opera Theatre",
     "rating": 5,
     "ratingCount": 4,
     "distance": 5.4,
@@ -104,7 +104,7 @@
   {
     "objectId": 6,
     "name": "Hin Yerevantsu street",
-    "address": "Hin Yerevantsu street (Underground parking near Northern Avenue)",
+    "address": "Underground parking near Northern Avenue",
     "rating": 2,
     "ratingCount": 62,
     "distance": 5.5,
