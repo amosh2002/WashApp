@@ -3,19 +3,19 @@
     {
       "id": "1",
       "cardType": "MasterCard",
-      "maskedNumber": "**** **** **** 5890",
+      "maskedNumber": "**** 5890",
       "isDefault": true
     },
     {
       "id": "2",
       "cardType": "Visa",
-      "maskedNumber": "**** **** **** 1234",
+      "maskedNumber": "**** 1234",
       "isDefault": false
     },
     {
       "id": "3",
       "cardType": "American Express",
-      "maskedNumber": "**** **** **** 5678",
+      "maskedNumber": "**** 21001",
       "isDefault": false
     }
   ]
