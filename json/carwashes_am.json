@@ -19,7 +19,7 @@
   },
   {
     "objectId": 1,
-    "name": "Հյուսիսային Պողոտա 11",
+    "name": "Հյուսիսային Պողոտա",
     "address": "11 Հյուսիսային Պողոտա",
     "rating": 5,
     "ratingCount": 8,
@@ -37,7 +37,7 @@
   },
   {
     "objectId": 2,
-    "name": "Բուզանդ 10",
+    "name": "Բուզանդ",
     "address": "10 Բուզանդի փողոց",
     "rating": 4.3,
     "ratingCount": 12,
@@ -53,7 +53,7 @@
   },
   {
     "objectId": 3,
-    "name": "Սայաթ-Նովա 8",
+    "name": "Սայաթ-Նովա",
     "address": "8 Սայաթ-Նովա պողոտա",
     "rating": 4.25,
     "ratingCount": 12,
@@ -70,7 +70,7 @@
   },
   {
     "objectId": 4,
-    "name": "Թումանյան 17",
+    "name": "Թումանյան",
     "address": "17 Թումանյան փողոց",
     "isFavorite": true,
     "rating": 4.0,
@@ -103,7 +103,7 @@
   },
   {
     "objectId": 6,
-    "name": "հին Երևանցու 1",
+    "name": "հին Երևանցու",
     "address": "1 հին Երևանցու փողոց",
     "rating": 2,
     "ratingCount": 62,
