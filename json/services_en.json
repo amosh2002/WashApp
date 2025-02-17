@@ -42,7 +42,7 @@
   {
     "objectId": 5,
     "category": "Inside Wash",
-    "name": "Salon Detailed Cleaning",
+    "name": "Salon Cleaning",
     "minPrice": 1000,
     "maxPrice": 2000,
     "minDuration": "15",
