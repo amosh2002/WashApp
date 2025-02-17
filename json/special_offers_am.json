@@ -1,0 +1,18 @@
+[
+  {
+    "objectId": 1,
+    "carwashId": 0,
+    "title": "50% Զեղչ",
+    "description": "Ստացեք 50% զեղչ բոլոր ապրանքանիշների վրա",
+    "imageUrl": "https://numeralpaint.com/wp-content/uploads/2021/08/Aesthetic-Porsche-Car-paint-by-numbers.jpg",
+    "validity": "2021-12-31"
+  },
+  {
+    "objectId": 2,
+    "carwashId": 2,
+    "title": "Ամրագրեք 1-ը, ստացեք 2-րդը անվճար!",
+    "description": "Ամրագրեք 1 ծառայություն և ստացեք 2-րդն անվճար",
+    "imageUrl": "https://mshikaji.com/wp-content/uploads/2021/12/The-Porsche-Experience-1920x1200.jpg",
+    "validity": "2021-12-31"
+  }
+]

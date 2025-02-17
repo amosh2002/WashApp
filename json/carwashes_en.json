@@ -1,0 +1,121 @@
+[
+  {
+    "objectId": 0,
+    "name": "OCTO",
+    "address": "2/7 Melkumov street",
+    "rating": 5,
+    "ratingCount": 24,
+    "distance": 1.2,
+    "isFavorite": true,
+    "workHours": "09:00 - 21:30",
+    "latitude": 40.213415,
+    "longitude": 44.475446,
+    "isPromoted": true,
+    "imageUrls": [
+      "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/carwashImages/octo/IMG_1.jpg",
+      "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/carwashImages/octo/IMG_2.jpg",
+      "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/carwashImages/octo/IMG_3.jpg"
+    ]
+  },
+  {
+    "objectId": 1,
+    "name": "Northern Avenue",
+    "address": "11 Northern Avenue",
+    "rating": 5,
+    "ratingCount": 8,
+    "distance": 2.3,
+    "isFavorite": true,
+    "workHours": "11:00 - 00:00",
+    "latitude": 40.181094,
+    "longitude": 44.513504,
+    "isPromoted": true,
+    "imageUrls": [
+      "https://img.freepik.com/premium-photo/blue-car-being-washed-car-wash-station_662214-527868.jpg",
+      "https://img.freepik.com/premium-photo/blue-car-being-washed-car-wash-station_662214-527868.jpg",
+      "https://img.freepik.com/premium-photo/blue-car-being-washed-car-wash-station_662214-527868.jpg"
+    ]
+  },
+  {
+    "objectId": 2,
+    "name": "Buzand",
+    "address": "10 Buzand street",
+    "rating": 4.3,
+    "ratingCount": 12,
+    "distance": 2.5,
+    "workHours": "09:00 - 04:00",
+    "latitude": 40.183926,
+    "longitude": 44.505973,
+    "imageUrls": [
+      "https://tommys-express.com/wp-content/uploads/2023/01/tunnel.jpg",
+      "https://tommys-express.com/wp-content/uploads/2023/01/tunnel.jpg",
+      "https://tommys-express.com/wp-content/uploads/2023/01/tunnel.jpg"
+    ]
+  },
+  {
+    "objectId": 3,
+    "name": "8 Sayat-Nova avenue",
+    "address": "8 Sayat-Nova avenue",
+    "rating": 4.25,
+    "ratingCount": 12,
+    "distance": 3.1,
+    "workHours": "10:00 - 23:00",
+    "latitude": 40.182929,
+    "longitude": 44.519031,
+    "isPromoted": true,
+    "imageUrls": [
+      "https://www.slashgear.com/img/gallery/5-of-the-best-car-wash-soaps-for-your-vehicle/l-intro-1705512855.jpg",
+      "https://www.slashgear.com/img/gallery/5-of-the-best-car-wash-soaps-for-your-vehicle/l-intro-1705512855.jpg",
+      "https://www.slashgear.com/img/gallery/5-of-the-best-car-wash-soaps-for-your-vehicle/l-intro-1705512855.jpg"
+    ]
+  },
+  {
+    "objectId": 4,
+    "name": "17 Tumanyan street",
+    "address": "17 Tumanyan street",
+    "isFavorite": true,
+    "rating": 4.0,
+    "ratingCount": 22,
+    "distance": 3.7,
+    "workHours": "10:00 - 02:30",
+    "latitude": 40.181526,
+    "longitude": 44.517921,
+    "imageUrls": [
+      "https://static.vecteezy.com/system/resources/thumbnails/039/664/930/small_2x/ai-generated-close-up-of-professional-car-wash-black-sports-car-being-shampooed-for-a-sparkling-clean-finish-free-photo.jpg",
+      "https://static.vecteezy.com/system/resources/thumbnails/039/664/930/small_2x/ai-generated-close-up-of-professional-car-wash-black-sports-car-being-shampooed-for-a-sparkling-clean-finish-free-photo.jpg",
+      "https://static.vecteezy.com/system/resources/thumbnails/039/664/930/small_2x/ai-generated-close-up-of-professional-car-wash-black-sports-car-being-shampooed-for-a-sparkling-clean-finish-free-photo.jpg"
+    ]
+  },
+  {
+    "objectId": 5,
+    "name": "Underground Parking Near Opera Theatre",
+    "address": "Tumanyan 77, near Opera theatre and other places",
+    "rating": 5,
+    "ratingCount": 4,
+    "distance": 5.4,
+    "workHours": "13:00 - 23:30",
+    "latitude": 40.184205,
+    "longitude": 44.515067,
+    "imageUrls": [
+      "https://blog.way.com/wp-content/uploads/2021/10/professional-car-wash-1.jpg",
+      "https://blog.way.com/wp-content/uploads/2021/10/professional-car-wash-1.jpg",
+      "https://blog.way.com/wp-content/uploads/2021/10/professional-car-wash-1.jpg"
+    ]
+  },
+  {
+    "objectId": 6,
+    "name": "Hin Yerevantsu street",
+    "address": "Near Northern Avenue",
+    "rating": 2,
+    "ratingCount": 62,
+    "distance": 5.5,
+    "workHours": "10:00 - 23:00",
+    "latitude": 40.183475,
+    "longitude": 44.514115,
+    "isPromoted": true,
+    "imageUrls": [
+      "https://tommys-express.com/wp-content/uploads/2023/01/tunnel.jpg",
+      "https://tommys-express.com/wp-content/uploads/2023/01/tunnel.jpg",
+      "https://tommys-express.com/wp-content/uploads/2023/01/tunnel.jpg"
+    ]
+  }
+]
