@@ -1,0 +1,208 @@
+{
+  "schedule": [
+    {
+      "timeslot": "12:00:00",
+      "booking": null
+    },
+    {
+      "timeslot": "12:45:00",
+      "booking": {
+        "is_booked_by_carwash": true,
+        "booking_id": "1234",
+        "date": "2024-12-13",
+        "start_time": "12:45:00",
+        "end_time": "13:15:00",
+        "booking_status": "CONFIRMED",
+        "user_id": null,
+        "services": null,
+        "car": null,
+        "car_wash_id": "1"
+      }
+    },
+    {
+      "timeslot": "13:00:00",
+      "booking": {
+        "is_booked_by_carwash": true,
+        "booking_id": "1234",
+        "date": "2024-12-13",
+        "start_time": "13:00:00",
+        "end_time": "14:30:00",
+        "booking_status": "CONFIRMED",
+        "user_id": null,
+        "services": null,
+        "car": null,
+        "car_wash_id": "1"
+      }
+    },
+    {
+      "timeslot": "13:30:00",
+      "booking": {
+        "is_booked_by_carwash": false,
+        "booking_id": "123",
+        "date": "2024-12-13",
+        "start_time": "13:30:00",
+        "end_time": "13:45:00",
+        "booking_status": "CONFIRMED",
+        "user_id": "111",
+        "services": [
+          {
+            "service_id": "1",
+            "service_name": "Մակերևույթի մաքրում",
+            "service_category": "Արտաքին Լվացում",
+            "sedan_specifics": {
+              "price": 2000,
+              "duration": 45
+            },
+            "crossover_specifics": {
+              "price": 3000,
+              "duration": 60
+            }
+          },
+          {
+            "service_id": "2",
+            "service_name": "Անվահեծերի փայլեցում",
+            "service_category": "Արտաքին Լվացում",
+            "sedan_specifics": {
+              "price": 1000,
+              "duration": 15
+            },
+            "crossover_specifics": {
+              "price": 1000,
+              "duration": 15
+            }
+          },
+          {
+            "service_id": "3",
+            "service_name": "Ոսկ",
+            "service_category": "Արտաքին Լվացում",
+            "sedan_specifics": {
+              "price": 3000,
+              "duration": 30
+            },
+            "crossover_specifics": {
+              "price": 3000,
+              "duration": 30
+            }
+          }
+        ],
+        "car": {
+          "id": "1",
+          "default": true,
+          "brand_name": "BMW",
+          "model": "X5",
+          "plate_number": "44XX444",
+          "production_year": "2018",
+          "color": "Սպիտակ",
+          "logo_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/640px-BMW.svg.png",
+          "type": "CROSSOVER"
+        },
+        "car_wash_id": "1"
+      }
+    },
+    {
+      "timeslot": "15:30:00",
+      "booking": {
+        "is_booked_by_carwash": false,
+        "booking_id": "123",
+        "date": "2024-12-13",
+        "start_time": "15:30:00",
+        "end_time": "15:45:00",
+        "booking_status": "CONFIRMED",
+        "user_id": "111",
+        "services": [
+          {
+            "service_id": "1",
+            "service_name": "Մակերևույթի մաքրում",
+            "service_category": "Արտաքին Լվացում",
+            "sedan_specifics": {
+              "price": 2000,
+              "duration": 45
+            },
+            "crossover_specifics": {
+              "price": 3000,
+              "duration": 60
+            }
+          },
+          {
+            "service_id": "2",
+            "service_name": "Անվահեծերի փայլեցում",
+            "service_category": "Արտաքին Լվացում",
+            "sedan_specifics": {
+              "price": 1000,
+              "duration": 15
+            },
+            "crossover_specifics": {
+              "price": 1000,
+              "duration": 15
+            }
+          }
+        ],
+        "car": {
+          "id": "1",
+          "default": true,
+          "brand_name": "Toyota",
+          "model": "RAV4",
+          "plate_number": "44XX444",
+          "production_year": "2018",
+          "color": "Սպիտակ",
+          "logo_image_url": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-Սպիտակ.png",
+          "type": "CROSSOVER"
+        },
+        "car_wash_id": "1"
+      }
+    },
+    {
+      "timeslot": "15:30:00",
+      "booking": {
+        "is_booked_by_carwash": false,
+        "booking_id": "123",
+        "date": "2024-12-13",
+        "start_time": "15:30:00",
+        "end_time": "16:15:00",
+        "booking_status": "CONFIRMED",
+        "user_id": "111",
+        "services": [
+          {
+            "service_id": "1",
+            "service_name": "Մակերևույթի մաքրում",
+            "service_category": "Արտաքին Լվացում",
+            "sedan_specifics": {
+              "price": 2000,
+              "duration": 45
+            },
+            "crossover_specifics": {
+              "price": 3000,
+              "duration": 60
+            }
+          },
+          {
+            "service_id": "2",
+            "service_name": "Անվահեծերի փայլեցում",
+            "service_category": "Քիմ․ Մաքրում",
+            "sedan_specifics": {
+              "price": 1000,
+              "duration": 15
+            },
+            "crossover_specifics": {
+              "price": 1000,
+              "duration": 15
+            }
+          }
+        ],
+        "car": {
+          "id": "1",
+          "default": true,
+          "brand_name": "Toyota",
+          "model": "RAV4",
+          "plate_number": "44XX444",
+          "production_year": "2018",
+          "color": "Սպիտակ",
+          "logo_image_url": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-Սպիտակ.png",
+          "type": "CROSSOVER"
+        },
+        "car_wash_id": "1"
+      }
+    }
+  ],
+  "car_wash_box_count": 3
+}
