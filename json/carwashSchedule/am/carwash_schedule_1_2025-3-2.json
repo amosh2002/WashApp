@@ -46,7 +46,7 @@
           {
             "service_id": "2",
             "service_name": "Անվահեծերի փայլեցում",
-            "service_category": "Քիմ․ Մաքրում",
+            "service_category": "Քիմմաքրում",
             "sedan_specifics": {
               "price": 1000,
               "duration": 15
@@ -176,7 +176,7 @@
           {
             "service_id": "2",
             "service_name": "Անվահեծերի փայլեցում",
-            "service_category": "Քիմ․ Մաքրում",
+            "service_category": "Քիմմաքրում",
             "sedan_specifics": {
               "price": 1000,
               "duration": 15
