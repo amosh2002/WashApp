@@ -1,8 +1,8 @@
 [
   {
     "objectId": 0,
-    "name": "OCTO",
-    "address": "2/7 Melkumov street",
+    "name": "ՕԿՏՈ",
+    "address": "2/7 Մելքումովի փողոց",
     "rating": 5,
     "ratingCount": 24,
     "distance": 1.2,
@@ -19,8 +19,8 @@
   },
   {
     "objectId": 1,
-    "name": "Northern Avenue",
-    "address": "11 Northern Avenue",
+    "name": "Հյուսիսային Պողոտա",
+    "address": "11 Հյուսիսային Պողոտա",
     "rating": 5,
     "ratingCount": 8,
     "distance": 2.3,
@@ -37,8 +37,8 @@
   },
   {
     "objectId": 2,
-    "name": "Buzand",
-    "address": "10 Buzand street",
+    "name": "Բուզանդ",
+    "address": "10 Բուզանդի փողոց",
     "rating": 4.3,
     "ratingCount": 12,
     "distance": 2.5,
@@ -53,8 +53,8 @@
   },
   {
     "objectId": 3,
-    "name": "8 Sayat-Nova avenue",
-    "address": "8 Sayat-Nova avenue",
+    "name": "8 Սայաթ-Նովա պողոտա",
+    "address": "8 Սայաթ-Նովա պողոտա",
     "rating": 4.25,
     "ratingCount": 12,
     "distance": 3.1,
@@ -70,8 +70,8 @@
   },
   {
     "objectId": 4,
-    "name": "17 Tumanyan street",
-    "address": "17 Tumanyan street",
+    "name": "17 Թումանյան փողոց",
+    "address": "17 Թումանյան փողոց",
     "isFavorite": true,
     "rating": 4.0,
     "ratingCount": 22,
@@ -87,8 +87,8 @@
   },
   {
     "objectId": 5,
-    "name": "Underground Parking Near Opera Theatre",
-    "address": "Tumanyan 77, near Opera theatre and other places",
+    "name": "Օպերայի հարևանությամբ (ստորգետնյա կայանատեղի)",
+    "address": "77 Թումանյան փողոց",
     "rating": 5,
     "ratingCount": 4,
     "distance": 5.4,
@@ -103,8 +103,8 @@
   },
   {
     "objectId": 6,
-    "name": "Hin Yerevantsu street",
-    "address": "Near Northern Avenue",
+    "name": "հին Երևանցու փողոց",
+    "address": "1 հին Երևանցու փողոց",
     "rating": 2,
     "ratingCount": 62,
     "distance": 5.5,
