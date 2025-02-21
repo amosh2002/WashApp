@@ -48,7 +48,7 @@
           {
             "service_id": "1",
             "service_name": "Makerevuyti lvacum",
-            "service_category": "Outside Wash",
+            "service_category": "Outside wash",
             "sedan_specifics": {
               "price": 2000,
               "duration": 45
@@ -61,7 +61,7 @@
           {
             "service_id": "2",
             "service_name": "Bantajneri paylecum",
-            "service_category": "Outside Wash",
+            "service_category": "Outside wash",
             "sedan_specifics": {
               "price": 1000,
               "duration": 15
@@ -74,7 +74,7 @@
           {
             "service_id": "3",
             "service_name": "Vosk",
-            "service_category": "Outside Wash",
+            "service_category": "Outside wash",
             "sedan_specifics": {
               "price": 3000,
               "duration": 30
@@ -113,7 +113,7 @@
           {
             "service_id": "1",
             "service_name": "Makerevuyti lvacum",
-            "service_category": "Outside Wash",
+            "service_category": "Outside wash",
             "sedan_specifics": {
               "price": 2000,
               "duration": 45
@@ -126,7 +126,7 @@
           {
             "service_id": "2",
             "service_name": "Bantajneri paylecum",
-            "service_category": "Outside Wash",
+            "service_category": "Outside wash",
             "sedan_specifics": {
               "price": 1000,
               "duration": 15
@@ -165,7 +165,7 @@
           {
             "service_id": "1",
             "service_name": "Makerevuyti lvacum",
-            "service_category": "Outside Wash",
+            "service_category": "Outside wash",
             "sedan_specifics": {
               "price": 2000,
               "duration": 45
@@ -217,7 +217,7 @@
           {
             "service_id": "1",
             "service_name": "Makerevuyti lvacum",
-            "service_category": "Outside Wash",
+            "service_category": "Outside wash",
             "sedan_specifics": {
               "price": 2000,
               "duration": 45
@@ -282,7 +282,7 @@
           {
             "service_id": "2",
             "service_name": "Bantajneri paylecum",
-            "service_category": "Outside Wash",
+            "service_category": "Outside wash",
             "sedan_specifics": {
               "price": 1000,
               "duration": 15
@@ -295,7 +295,7 @@
           {
             "service_id": "3",
             "service_name": "Vosk",
-            "service_category": "Outside Wash",
+            "service_category": "Outside wash",
             "sedan_specifics": {
               "price": 3000,
               "duration": 30
@@ -308,7 +308,7 @@
           {
             "service_id": "4",
             "service_name": "Poshekul",
-            "service_category": "Inside Wash",
+            "service_category": "Inside wash",
             "sedan_specifics": {
               "price": 3000,
               "duration": 30
@@ -347,7 +347,7 @@
           {
             "service_id": "1",
             "service_name": "Makerevuyti lvacum",
-            "service_category": "Outside Wash",
+            "service_category": "Outside wash",
             "sedan_specifics": {
               "price": 2000,
               "duration": 45
@@ -372,8 +372,8 @@
           },
           {
             "service_id": "2",
-            "service_name": "Ceramic Coatingulik",
-            "service_category": "Ceramic Coating",
+            "service_name": "Ceramic coatingulik",
+            "service_category": "Ceramic coating",
             "sedan_specifics": {
               "price": 1000,
               "duration": 15
@@ -412,7 +412,7 @@
           {
             "service_id": "1",
             "service_name": "Makerevuyti lvacum",
-            "service_category": "Outside Wash",
+            "service_category": "Outside wash",
             "sedan_specifics": {
               "price": 2000,
               "duration": 45
@@ -425,7 +425,7 @@
           {
             "service_id": "2",
             "service_name": "Bantajneri paylecum",
-            "service_category": "Outside Wash",
+            "service_category": "Outside wash",
             "sedan_specifics": {
               "price": 1000,
               "duration": 15
@@ -438,7 +438,7 @@
           {
             "service_id": "3",
             "service_name": "Vosk",
-            "service_category": "Outside Wash",
+            "service_category": "Outside wash",
             "sedan_specifics": {
               "price": 3000,
               "duration": 30
@@ -477,7 +477,7 @@
           {
             "service_id": "1",
             "service_name": "Makerevuyti lvacum",
-            "service_category": "Outside Wash",
+            "service_category": "Outside wash",
             "sedan_specifics": {
               "price": 2000,
               "duration": 45
@@ -490,7 +490,7 @@
           {
             "service_id": "2",
             "service_name": "Bantajneri paylecum",
-            "service_category": "Outside Wash",
+            "service_category": "Outside wash",
             "sedan_specifics": {
               "price": 1000,
               "duration": 15
@@ -503,7 +503,7 @@
           {
             "service_id": "3",
             "service_name": "Vosk",
-            "service_category": "Outside Wash",
+            "service_category": "Outside wash",
             "sedan_specifics": {
               "price": 3000,
               "duration": 30
@@ -542,7 +542,7 @@
           {
             "service_id": "1",
             "service_name": "Makerevuyti lvacum",
-            "service_category": "Outside Wash",
+            "service_category": "Outside wash",
             "sedan_specifics": {
               "price": 2000,
               "duration": 45
@@ -555,7 +555,7 @@
           {
             "service_id": "2",
             "service_name": "Bantajneri paylecum",
-            "service_category": "Outside Wash",
+            "service_category": "Outside wash",
             "sedan_specifics": {
               "price": 1000,
               "duration": 15
@@ -568,7 +568,7 @@
           {
             "service_id": "3",
             "service_name": "Vosk",
-            "service_category": "Ceramic Coating",
+            "service_category": "Ceramic coating",
             "sedan_specifics": {
               "price": 3000,
               "duration": 30

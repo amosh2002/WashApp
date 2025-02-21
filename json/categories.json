@@ -1,6 +1,6 @@
 [
   {
-    "category": "Outside Wash",
+    "category": "Outside wash",
     "minPrice": 2000,
     "maxPrice": 10000,
     "minDuration": "30",
@@ -8,7 +8,7 @@
     "imageUrl": "https://cdn-icons-png.flaticon.com/512/887/887251.png"
   },
   {
-    "category": "Inside Wash",
+    "category": "Inside wash",
     "minPrice": 1000,
     "maxPrice": 3000,
     "minDuration": "10",
@@ -16,7 +16,7 @@
     "imageUrl": "https://cdn-icons-png.flaticon.com/512/887/887251.png"
   },
   {
-    "category": "Chem. Wash",
+    "category": "Chemical cleaning",
     "minPrice": 5000,
     "maxPrice": 15000,
     "minDuration": "40",
@@ -24,7 +24,7 @@
     "imageUrl": "https://cdn3.iconfinder.com/data/icons/car-wash-13/64/tire_cleaning-clean-vehicle-512.png"
   },
   {
-    "category": "Ceramic Coating",
+    "category": "Ceramic coating",
     "minPrice": 7000,
     "maxPrice": 18000,
     "minDuration": "80",

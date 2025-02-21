@@ -1,7 +1,7 @@
 [
   {
     "objectId": 1,
-    "category": "Outside Wash",
+    "category": "Outside wash",
     "name": "Standard",
     "minPrice": 7000,
     "maxPrice": 12000,
@@ -11,7 +11,7 @@
   },
   {
     "objectId": 2,
-    "category": "Outside Wash",
+    "category": "Outside wash",
     "name": "Detailed Wash with Shampoo",
     "minPrice": 8000,
     "maxPrice": 13000,
@@ -21,7 +21,7 @@
   },
   {
     "objectId": 3,
-    "category": "Outside Wash",
+    "category": "Outside wash",
     "name": "Under Body Wash",
     "minPrice": 2000,
     "maxPrice": 3000,
@@ -31,7 +31,7 @@
   },
   {
     "objectId": 4,
-    "category": "Outside Wash",
+    "category": "Outside wash",
     "name": "Engine Wash",
     "minPrice": 5000,
     "maxPrice": 6000,
@@ -41,8 +41,8 @@
   },
   {
     "objectId": 5,
-    "category": "Inside Wash",
-    "name": "Salon Cleaning",
+    "category": "Inside wash",
+    "name": "Chemical cleaning",
     "minPrice": 1000,
     "maxPrice": 2000,
     "minDuration": "15",
@@ -51,7 +51,7 @@
   },
   {
     "objectId": 6,
-    "category": "Inside Wash",
+    "category": "Inside wash",
     "name": "Leather Seats Cleaning with Conditioner",
     "minPrice": 1000,
     "maxPrice": 2000,
@@ -61,7 +61,7 @@
   },
   {
     "objectId": 7,
-    "category": "Outside Wash",
+    "category": "Outside wash",
     "name": "Shine Wax",
     "minPrice": 60000,
     "maxPrice": 150000,
@@ -71,7 +71,7 @@
   },
   {
     "objectId": 8,
-    "category": "Chem. Wash",
+    "category": "Chemical cleaning",
     "name": "Salon Chemical Cleaning",
     "minPrice": 1000,
     "maxPrice": 1300,
@@ -81,8 +81,8 @@
   },
   {
     "objectId": 9,
-    "category": "Ceramic Coating",
-    "name": "Body Ceramic Coating - 1 Year",
+    "category": "Ceramic coating",
+    "name": "Body Ceramic coating - 1 Year",
     "minPrice": 120000,
     "maxPrice": 150000,
     "minDuration": "140",
@@ -91,8 +91,8 @@
   },
   {
     "objectId": 10,
-    "category": "Ceramic Coating",
-    "name": "Body Ceramic Coating - 2 Years",
+    "category": "Ceramic coating",
+    "name": "Body Ceramic coating - 2 Years",
     "minPrice": 200000,
     "maxPrice": 250000,
     "minDuration": "180",
@@ -100,8 +100,8 @@
     "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/ceramic_coating.png"
   },{
     "objectId": 11,
-    "category": "Ceramic Coating",
-    "name": "Body Ceramic Coating - 3 Years",
+    "category": "Ceramic coating",
+    "name": "Body Ceramic coating - 3 Years",
     "minPrice": 300000,
     "maxPrice": 400000,
     "minDuration": "200",

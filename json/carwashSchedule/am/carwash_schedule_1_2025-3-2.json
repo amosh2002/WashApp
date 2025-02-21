@@ -33,7 +33,7 @@
           {
             "service_id": "1",
             "service_name": "Մակերևույթի մաքրում",
-            "service_category": "Արտաքին Լվացում",
+            "service_category": "Արտաքին լվացում",
             "sedan_specifics": {
               "price": 2000,
               "duration": 45
@@ -98,7 +98,7 @@
           {
             "service_id": "2",
             "service_name": "Անվահեծերի փայլեցում",
-            "service_category": "Արտաքին Լվացում",
+            "service_category": "Արտաքին լվացում",
             "sedan_specifics": {
               "price": 1000,
               "duration": 15
@@ -111,7 +111,7 @@
           {
             "service_id": "3",
             "service_name": "Ոսկ",
-            "service_category": "Արտաքին Լվացում",
+            "service_category": "Արտաքին լվացում",
             "sedan_specifics": {
               "price": 3000,
               "duration": 30
@@ -124,7 +124,7 @@
           {
             "service_id": "4",
             "service_name": "Փոշեկուլ",
-            "service_category": "Ներքին Լվացում",
+            "service_category": "Ներքին լվացում",
             "sedan_specifics": {
               "price": 3000,
               "duration": 30
@@ -163,7 +163,7 @@
           {
             "service_id": "1",
             "service_name": "Մակերևույթի մաքրում",
-            "service_category": "Արտաքին Լվացում",
+            "service_category": "Արտաքին լվացում",
             "sedan_specifics": {
               "price": 2000,
               "duration": 45
@@ -228,7 +228,7 @@
           {
             "service_id": "1",
             "service_name": "Մակերևույթի մաքրում",
-            "service_category": "Արտաքին Լվացում",
+            "service_category": "Արտաքին լվացում",
             "sedan_specifics": {
               "price": 2000,
               "duration": 45
@@ -241,7 +241,7 @@
           {
             "service_id": "2",
             "service_name": "Անվահեծերի փայլեցում",
-            "service_category": "Արտաքին Լվացում",
+            "service_category": "Արտաքին լվացում",
             "sedan_specifics": {
               "price": 1000,
               "duration": 15
@@ -254,7 +254,7 @@
           {
             "service_id": "3",
             "service_name": "Ոսկ",
-            "service_category": "Արտաքին Լվացում",
+            "service_category": "Արտաքին լվացում",
             "sedan_specifics": {
               "price": 3000,
               "duration": 30
@@ -293,7 +293,7 @@
           {
             "service_id": "1",
             "service_name": "Մակերևույթի մաքրում",
-            "service_category": "Արտաքին Լվացում",
+            "service_category": "Արտաքին լվացում",
             "sedan_specifics": {
               "price": 2000,
               "duration": 45
@@ -306,7 +306,7 @@
           {
             "service_id": "2",
             "service_name": "Անվահեծերի փայլեցում",
-            "service_category": "Արտաքին Լվացում",
+            "service_category": "Արտաքին լվացում",
             "sedan_specifics": {
               "price": 1000,
               "duration": 15
@@ -319,7 +319,7 @@
           {
             "service_id": "3",
             "service_name": "Ոսկ",
-            "service_category": "Արտաքին Լվացում",
+            "service_category": "Արտաքին լվացում",
             "sedan_specifics": {
               "price": 3000,
               "duration": 30
