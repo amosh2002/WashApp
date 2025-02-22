@@ -42,7 +42,7 @@
   {
     "objectId": 5,
     "category": "Inside wash",
-    "name": "Chemical cleaning",
+    "name": "Salon cleaning",
     "minPrice": 1000,
     "maxPrice": 2000,
     "minDuration": "15",
