@@ -1,20 +1,20 @@
 [
   {
     "objectId": 0,
-    "name": "ՕԿՏՈ",
-    "address": "2/7 Մելքումովի փողոց",
+    "name": "Ավտոլվացում 48",
+    "address": "4/1 Լեռ Կամսար փողոց",
     "rating": 5,
     "ratingCount": 24,
     "distance": 1.2,
     "isFavorite": true,
-    "workHours": "09:00 - 21:30",
-    "latitude": 40.213415,
-    "longitude": 44.475446,
+    "workHours": "10:00 - 22:00",
+    "latitude": 40.193006,
+    "longitude": 44.502261,
     "isPromoted": true,
     "imageUrls": [
-      "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/carwashImages/octo/IMG_1.jpg",
-      "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/carwashImages/octo/IMG_2.jpg",
-      "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/carwashImages/octo/IMG_3.jpg"
+      "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/carwashImages/car_wash_48/IMG_1.jpg",
+      "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/carwashImages/car_wash_48/IMG_2.jpg",
+      "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/carwashImages/car_wash_48/IMG_3.jpg"
     ]
   },
   {
@@ -116,6 +116,24 @@
       "https://tommys-express.com/wp-content/uploads/2023/01/tunnel.jpg",
       "https://tommys-express.com/wp-content/uploads/2023/01/tunnel.jpg",
       "https://tommys-express.com/wp-content/uploads/2023/01/tunnel.jpg"
+    ]
+  },
+  {
+    "objectId": 7,
+    "name": "ՕԿՏՈ",
+    "address": "2/7 Մելքումովի փողոց",
+    "rating": 5,
+    "ratingCount": 24,
+    "distance": 1.2,
+    "isFavorite": true,
+    "workHours": "09:00 - 21:30",
+    "latitude": 40.213415,
+    "longitude": 44.475446,
+    "isPromoted": true,
+    "imageUrls": [
+      "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/carwashImages/octo/IMG_1.jpg",
+      "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/carwashImages/octo/IMG_2.jpg",
+      "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/carwashImages/octo/IMG_3.jpg"
     ]
   }
 ]
