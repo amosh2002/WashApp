@@ -2,14 +2,14 @@
   {
     "objectId": 0,
     "name": "Ավտոլվացում 48",
-    "address": "4/1 Լեռ Կամսար փողոց",
+    "address": "Անաստաս Միկոյան 88 Եղվարդի խճուղի",
     "rating": 5,
     "ratingCount": 183,
     "distance": 2,
     "isFavorite": true,
     "workHours": "09:00 - 20:00",
-    "latitude": 40.193006,
-    "longitude": 44.502261,
+    "latitude": 40.221851,
+    "longitude": 44.504219,
     "isPromoted": true,
     "imageUrls": [
       "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/carwashImages/car_wash_48/IMG_1.png",
