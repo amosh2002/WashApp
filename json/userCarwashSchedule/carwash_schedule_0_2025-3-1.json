@@ -1,25 +1,25 @@
 {
   "schedule": [
     {
-      "timeslot": "12:00:00"
+      "timeslot": "12:00"
     },
     {
-      "timeslot": "16:00:00"
+      "timeslot": "16:00"
     },
     {
-      "timeslot": "20:00:00"
+      "timeslot": "20:00"
     },
     {
-      "timeslot": "20:15:00"
+      "timeslot": "20:15"
     },
     {
-      "timeslot": "20:30:00"
+      "timeslot": "20:30"
     },
     {
-      "timeslot": "21:00:00"
+      "timeslot": "21:00"
     },
     {
-      "timeslot": "22:00:00"
+      "timeslot": "22:00"
     }
   ]
 }
