@@ -1,0 +1,112 @@
+[
+  {
+    "objectId": 1,
+    "category": "Outside wash",
+    "name": "Standard",
+    "minPrice": 6000,
+    "maxPrice": 12000,
+    "minDuration": "30",
+    "maxDuration": "60",
+    "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/outside_wash__standard.png"
+  },
+  {
+    "objectId": 2,
+    "category": "Outside wash",
+    "name": "Detailed Wash with Shampoo",
+    "minPrice": 6000,
+    "maxPrice": 13000,
+    "minDuration": "45",
+    "maxDuration": "60",
+    "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/outside_wash__shampoo.png"
+  },
+  {
+    "objectId": 3,
+    "category": "Outside wash",
+    "name": "Under Body Wash",
+    "minPrice": 2000,
+    "maxPrice": 3000,
+    "minDuration": "10",
+    "maxDuration": "20",
+    "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/outside_wash__under.png"
+  },
+  {
+    "objectId": 4,
+    "category": "Outside wash",
+    "name": "Engine Wash",
+    "minPrice": 5000,
+    "maxPrice": 6000,
+    "minDuration": "10",
+    "maxDuration": "20",
+    "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/outside_wash__engine.png"
+  },
+  {
+    "objectId": 5,
+    "category": "Inside wash",
+    "name": "Salon cleaning",
+    "minPrice": 1000,
+    "maxPrice": 2000,
+    "minDuration": "15",
+    "maxDuration": "30",
+    "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/inside_wash__detailed.png"
+  },
+  {
+    "objectId": 6,
+    "category": "Inside wash",
+    "name": "Leather Seats Cleaning with Conditioner",
+    "minPrice": 1000,
+    "maxPrice": 2000,
+    "minDuration": "10",
+    "maxDuration": "20",
+    "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/inside_wash__leather.png"
+  },
+  {
+    "objectId": 7,
+    "category": "Outside wash",
+    "name": "Shine Wax",
+    "minPrice": 60000,
+    "maxPrice": 150000,
+    "minDuration": "55",
+    "maxDuration": "150",
+    "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/outsie_wash__wax.png"
+  },
+  {
+    "objectId": 8,
+    "category": "Chemical cleaning",
+    "name": "Salon Chemical Cleaning",
+    "minPrice": 1000,
+    "maxPrice": 1300,
+    "minDuration": "40",
+    "maxDuration": "60",
+    "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/chemical_wash__salon.png"
+  },
+  {
+    "objectId": 9,
+    "category": "Ceramic coating",
+    "name": "Body Ceramic coating - 1 Year",
+    "minPrice": 120000,
+    "maxPrice": 150000,
+    "minDuration": "140",
+    "maxDuration": "150",
+    "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/ceramic_coating.png"
+  },
+  {
+    "objectId": 10,
+    "category": "Ceramic coating",
+    "name": "Body Ceramic coating - 2 Years",
+    "minPrice": 200000,
+    "maxPrice": 250000,
+    "minDuration": "180",
+    "maxDuration": "190",
+    "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/ceramic_coating.png"
+  },
+  {
+    "objectId": 11,
+    "category": "Ceramic coating",
+    "name": "Body Ceramic coating - 3 Years",
+    "minPrice": 300000,
+    "maxPrice": 400000,
+    "minDuration": "200",
+    "maxDuration": "230",
+    "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/ceramic_coating.png"
+  }
+]

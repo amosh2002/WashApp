@@ -3,7 +3,7 @@
     "objectId": 1,
     "category": "Outside wash",
     "name": "Standard",
-    "minPrice": 7000,
+    "minPrice": 4000,
     "maxPrice": 12000,
     "minDuration": "30",
     "maxDuration": "60",
