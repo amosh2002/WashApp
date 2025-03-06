@@ -31,6 +31,7 @@
       "maxPrice": 12000,
       "minDuration": "30",
       "maxDuration": "60",
+      "available": true,
       "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/outside_wash__standard.png"
     },
     {
@@ -41,6 +42,7 @@
       "maxPrice": 13000,
       "minDuration": "45",
       "maxDuration": "60",
+      "available": true,
       "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/outside_wash__shampoo.png"
     },
     {
@@ -51,6 +53,7 @@
       "maxPrice": 6000,
       "minDuration": "10",
       "maxDuration": "20",
+      "available": true,
       "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/outside_wash__engine.png"
     },
     {
@@ -61,6 +64,7 @@
       "maxPrice": 2000,
       "minDuration": "15",
       "maxDuration": "30",
+      "available": true,
       "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/inside_wash__detailed.png"
     },
     {
@@ -71,6 +75,7 @@
       "maxPrice": 2000,
       "minDuration": "10",
       "maxDuration": "20",
+      "available": false,
       "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/inside_wash__leather.png"
     },
     {
@@ -81,6 +86,7 @@
       "maxPrice": 150000,
       "minDuration": "55",
       "maxDuration": "150",
+      "available": false,
       "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/outsie_wash__wax.png"
     },
     {
@@ -91,6 +97,7 @@
       "maxPrice": 1300,
       "minDuration": "40",
       "maxDuration": "60",
+      "available": false,
       "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/chemical_wash__salon.png"
     },
     {
@@ -101,6 +108,7 @@
       "maxPrice": 150000,
       "minDuration": "140",
       "maxDuration": "150",
+      "available": true,
       "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/ceramic_coating.png"
     },
     {
@@ -111,6 +119,7 @@
       "maxPrice": 250000,
       "minDuration": "180",
       "maxDuration": "190",
+      "available": true,
       "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/ceramic_coating.png"
     },
     {
@@ -121,6 +130,7 @@
       "maxPrice": 400000,
       "minDuration": "200",
       "maxDuration": "230",
+      "available": true,
       "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/ceramic_coating.png"
     }
   ]
