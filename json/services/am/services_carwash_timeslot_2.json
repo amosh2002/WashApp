@@ -1,33 +1,33 @@
 {
   "car_wash": {
-    "objectId": 0,
-    "name": "Ավտոլվացում 48",
-    "address": "88 Անաստաս Միկոյան փ․",
+    "objectId": 2,
+    "name": "Բուզանդ",
+    "address": "10 Բուզանդի փողոց",
     "city": "Երևան",
     "country": "Հայաստան",
-    "rating": 5,
-    "review_count": 183,
-    "is_favorite": true,
+    "rating": 4.3,
+    "review_count": 12,
+    "is_favorite": false,
     "opening_time": "09:00",
-    "closing_time": "20:00",
-    "distance": 2,
-    "latitude": 40.221851,
-    "longitude": 44.504219,
+    "closing_time": "04:00",
+    "distance": 2.5,
+    "latitude": 40.183926,
+    "longitude": 44.505973,
     "is_promoted": true,
     "image_urls": [
-      "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/carwashImages/car_wash_48/IMG_1.png",
-      "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/carwashImages/car_wash_48/IMG_2.png",
-      "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/carwashImages/car_wash_48/IMG_3.png"
+      "https://tommys-express.com/wp-content/uploads/2023/01/tunnel.jpg",
+      "https://tommys-express.com/wp-content/uploads/2023/01/tunnel.jpg",
+      "https://tommys-express.com/wp-content/uploads/2023/01/tunnel.jpg"
     ]
   },
-  "start_time": "14:00",
-  "end_time": "17:00",
+  "start_time": "15:00",
+  "end_time": "19:30",
   "services": [
     {
       "objectId": 1,
       "category": "Արտաքին լվացում",
       "name": "Ստանդարտ",
-      "minPrice": 3000,
+      "minPrice": 5000,
       "maxPrice": 12000,
       "minDuration": "30",
       "maxDuration": "60",
@@ -42,6 +42,16 @@
       "minDuration": "45",
       "maxDuration": "60",
       "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/outside_wash__shampoo.png"
+    },
+    {
+      "objectId": 3,
+      "category": "Արտաքին լվացում",
+      "name": "Մեքենայի տակի լվացում",
+      "minPrice": 2000,
+      "maxPrice": 3000,
+      "minDuration": "10",
+      "maxDuration": "20",
+      "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/outside_wash__under.png"
     },
     {
       "objectId": 4,

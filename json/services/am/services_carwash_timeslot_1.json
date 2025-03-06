@@ -1,33 +1,33 @@
 {
   "car_wash": {
-    "objectId": 0,
-    "name": "Ավտոլվացում 48",
-    "address": "88 Անաստաս Միկոյան փ․",
+    "objectId": 1,
+    "name": "Հյուսիսային Պողոտա",
+    "address": "11 Հյուսիսային Պողոտա",
     "city": "Երևան",
     "country": "Հայաստան",
     "rating": 5,
-    "review_count": 183,
+    "review_count": 8,
     "is_favorite": true,
-    "opening_time": "09:00",
-    "closing_time": "20:00",
-    "distance": 2,
-    "latitude": 40.221851,
-    "longitude": 44.504219,
+    "opening_time": "11:00",
+    "closing_time": "00:00",
+    "distance": 2.3,
+    "latitude": 40.181094,
+    "longitude": 44.513504,
     "is_promoted": true,
     "image_urls": [
-      "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/carwashImages/car_wash_48/IMG_1.png",
-      "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/carwashImages/car_wash_48/IMG_2.png",
-      "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/carwashImages/car_wash_48/IMG_3.png"
+      "https://img.freepik.com/premium-photo/blue-car-being-washed-car-wash-station_662214-527868.jpg",
+      "https://img.freepik.com/premium-photo/blue-car-being-washed-car-wash-station_662214-527868.jpg",
+      "https://img.freepik.com/premium-photo/blue-car-being-washed-car-wash-station_662214-527868.jpg"
     ]
   },
-  "start_time": "14:00",
-  "end_time": "17:00",
+  "start_time": "15:00",
+  "end_time": "16:30",
   "services": [
     {
       "objectId": 1,
       "category": "Արտաքին լվացում",
       "name": "Ստանդարտ",
-      "minPrice": 3000,
+      "minPrice": 6000,
       "maxPrice": 12000,
       "minDuration": "30",
       "maxDuration": "60",
@@ -42,6 +42,16 @@
       "minDuration": "45",
       "maxDuration": "60",
       "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/outside_wash__shampoo.png"
+    },
+    {
+      "objectId": 3,
+      "category": "Արտաքին լվացում",
+      "name": "Մեքենայի տակի լվացում",
+      "minPrice": 2000,
+      "maxPrice": 3000,
+      "minDuration": "10",
+      "maxDuration": "20",
+      "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/outside_wash__under.png"
     },
     {
       "objectId": 4,
@@ -101,16 +111,6 @@
       "maxPrice": 150000,
       "minDuration": "140",
       "maxDuration": "150",
-      "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/ceramic_coating.png"
-    },
-    {
-      "objectId": 10,
-      "category": "Կերամապատում",
-      "name": "Մեքենայի Կերամապատում - 2 Տարի",
-      "minPrice": 200000,
-      "maxPrice": 250000,
-      "minDuration": "180",
-      "maxDuration": "190",
       "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/ceramic_coating.png"
     },
     {
