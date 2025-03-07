@@ -106,7 +106,7 @@
       "name": "Մեքենայի Կերամապատում - 1 Տարի",
       "minPrice": 120000,
       "maxPrice": 150000,
-      "minDuration": "140",
+      "minDuration": "100",
       "maxDuration": "150",
       "available": true,
       "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/ceramic_coating.png"
