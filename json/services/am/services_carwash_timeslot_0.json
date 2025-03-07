@@ -75,7 +75,7 @@
       "maxPrice": 2000,
       "minDuration": "10",
       "maxDuration": "20",
-      "available": false,
+      "available": true,
       "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/inside_wash__leather.png"
     },
     {
@@ -86,7 +86,7 @@
       "maxPrice": 150000,
       "minDuration": "55",
       "maxDuration": "150",
-      "available": false,
+      "available": true,
       "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/outsie_wash__wax.png"
     },
     {
@@ -97,7 +97,7 @@
       "maxPrice": 1300,
       "minDuration": "40",
       "maxDuration": "60",
-      "available": false,
+      "available": true,
       "imageUrl": "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/chemical_wash__salon.png"
     },
     {
