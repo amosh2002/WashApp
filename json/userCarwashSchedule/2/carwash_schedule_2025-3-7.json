@@ -1,0 +1,28 @@
+{
+  "schedule": [
+    {
+      "timeslot": "13:00"
+    },
+    {
+      "timeslot": "15:00"
+    },
+    {
+      "timeslot": "18:00"
+    },
+    {
+      "timeslot": "20:00"
+    },
+    {
+      "timeslot": "20:15"
+    },
+    {
+      "timeslot": "20:30"
+    },
+    {
+      "timeslot": "21:00"
+    },
+    {
+      "timeslot": "22:00"
+    }
+  ]
+}
