@@ -1,0 +1,35 @@
+{
+  "car_wash": {
+    "objectId": 4,
+    "name": "Թումանյան",
+    "address": "17 Թումանյան փողոց",
+    "city": "Երևան",
+    "country": "Հայաստան",
+    "rating": 4.0,
+    "review_count": 22,
+    "is_favorite": true,
+    "opening_time": "10:00",
+    "closing_time": "02:30",
+    "distance": 3.7,
+    "latitude": 40.181526,
+    "longitude": 44.517921,
+    "is_promoted": false,
+    "image_urls": [
+      "https://static.vecteezy.com/system/resources/thumbnails/039/664/930/small_2x/ai-generated-close-up-of-professional-car-wash-black-sports-car-being-shampooed-for-a-sparkling-clean-finish-free-photo.jpg",
+      "https://static.vecteezy.com/system/resources/thumbnails/039/664/930/small_2x/ai-generated-close-up-of-professional-car-wash-black-sports-car-being-shampooed-for-a-sparkling-clean-finish-free-photo.jpg",
+      "https://static.vecteezy.com/system/resources/thumbnails/039/664/930/small_2x/ai-generated-close-up-of-professional-car-wash-black-sports-car-being-shampooed-for-a-sparkling-clean-finish-free-photo.jpg"
+    ]
+  },
+  "services": [],
+  "slots": [
+    "12:30",
+    "14:45",
+    "16:00",
+    "16:30",
+    "20:00",
+    "20:15",
+    "20:30",
+    "20:45",
+    "02:00"
+  ]
+}
