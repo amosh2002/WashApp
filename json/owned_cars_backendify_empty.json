@@ -1,0 +1,8 @@
+{
+  "id": "1",
+  "name": "John Doe",
+  "mobile_number": "+374 94 50 33 50",
+  "verified": true,
+  "cars": [
+  ]
+}
