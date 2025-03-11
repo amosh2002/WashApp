@@ -1,0 +1,54 @@
+{
+  "promocodes": [
+    {
+      "id": "0",
+      "user_id": "333",
+      "user_applied_count": 0,
+      "code": "#WASHAPP_2025",
+      "operation_amount": 20,
+      "discount_action": "PERCENT",
+      "expiration_date": "2025-08-11T21:30:18.065Z",
+      "car_washes": [
+        "0",
+        "1"
+      ],
+      "issued_by": "WashApp",
+      "limit": 1,
+      "min_value": 3000,
+      "max_value": 10000,
+      "affiliate_link": "https://www.washapp.am"
+    },
+    {
+      "id": "1",
+      "user_id": "333",
+      "user_applied_count": 0,
+      "code": "#FALAFELMALAFEL",
+      "operation_amount": 10,
+      "discount_action": "PERCENT",
+      "expiration_date": "2027-08-11T21:30:18.065Z",
+      "car_washes": [],
+      "issued_by": "WashApp",
+      "limit": 1,
+      "min_value": 0,
+      "max_value": 15000,
+      "affiliate_link": "https://www.washapp.am"
+    },
+    {
+      "id": "2",
+      "user_id": "333",
+      "user_applied_count": 1,
+      "code": "#FELIX_POX_TUR",
+      "operation_amount": 90,
+      "discount_action": "PERCENT",
+      "expiration_date": "2029-08-11T21:30:18.065Z",
+      "car_washes": [
+        "0"
+      ],
+      "issued_by": "WashApp",
+      "limit": 1,
+      "min_value": 5000,
+      "max_value": 15000,
+      "affiliate_link": "https://www.washapp.am"
+    }
+  ]
+}
