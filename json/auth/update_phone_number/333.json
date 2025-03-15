@@ -10,7 +10,7 @@
       "brand_name": "Toyota",
       "model": "RAV4",
       "production_year": "2020",
-      "color": "White",
+      "color": "Սպիտակ",
       "plate_number": "02 TT 007",
       "logo_image_url": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
       "type": "CROSSOVER"
@@ -21,7 +21,7 @@
       "brand_name": "BMW",
       "model": "X5",
       "production_year": "2022",
-      "color": "Black",
+      "color": "Սև",
       "plate_number": "07 XX 007",
       "logo_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/640px-BMW.svg.png",
       "type": "SEDAN"
@@ -43,7 +43,7 @@
       "brand_name": "BMW",
       "model": "X7",
       "production_year": "2012",
-      "color": "Black",
+      "color": "Սև",
       "plate_number": "04 XX 004",
       "logo_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/640px-BMW.svg.png",
       "type": "CROSSOVER"
@@ -54,7 +54,7 @@
       "brand_name": "Mercedes-Benz",
       "model": "EQC",
       "production_year": "2023",
-      "color": "White",
+      "color": "Սպիտակ",
       "plate_number": "345 VR 03",
       "logo_image_url": "https://logodownload.org/wp-content/uploads/2014/04/mercedes-benz-logo-0.png",
       "type": "CROSSOVER"
@@ -65,7 +65,7 @@
       "brand_name": "Toyota",
       "model": "Highlander",
       "production_year": "2021",
-      "color": "White",
+      "color": "Սպիտակ",
       "plate_number": "34 VO 031",
       "logo_image_url": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
       "type": "CROSSOVER"
