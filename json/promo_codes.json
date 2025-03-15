@@ -26,7 +26,7 @@
       "operation_amount": 10,
       "discount_action": "PERCENT",
       "expiration_date": "2027-08-11T21:30:18.065Z",
-      "car_washes": [],
+      "car_washes": ["0"],
       "issued_by": "WashApp",
       "limit": 1,
       "min_value": 0,
