@@ -1,0 +1,38 @@
+{
+  "car_wash": {
+    "objectId": 0,
+    "name": "Ավտոլվացում 48",
+    "address": "88 Անաստաս Միկոյան փ․",
+    "city": "Երևան",
+    "country": "Հայաստան",
+    "rating": 5,
+    "review_count": 183,
+    "is_favorite": true,
+    "opening_time": "09:00",
+    "closing_time": "02:00",
+    "distance": 2,
+    "latitude": 40.221851,
+    "longitude": 44.504219,
+    "is_promoted": true,
+    "image_urls": [
+      "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/carwashImages/car_wash_48/IMG_1.png",
+      "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/carwashImages/car_wash_48/IMG_2.png",
+      "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/carwashImages/car_wash_48/IMG_3.png"
+    ]
+  },
+  "services": [],
+  "slots": [
+    "00:15",
+    "12:30",
+    "14:45",
+    "16:00",
+    "16:30",
+    "20:00",
+    "20:15",
+    "20:30",
+    "21:00",
+    "22:00",
+    "22:30",
+    "23:15"
+  ]
+}
