@@ -1,0 +1,21 @@
+{
+  "objectId": 3,
+  "name": "Սայաթ-Նովա",
+  "address": "8 Սայաթ-Նովա պողոտա",
+  "city": "Երևան",
+  "country": "Հայաստան",
+  "rating": 4.25,
+  "review_count": 12,
+  "is_favorite": false,
+  "opening_time": "10:00",
+  "closing_time": "23:00",
+  "distance": 3.1,
+  "latitude": 40.182929,
+  "longitude": 44.519031,
+  "is_promoted": true,
+  "image_urls": [
+    "https://www.slashgear.com/img/gallery/5-of-the-best-car-wash-soaps-for-your-vehicle/l-intro-1705512855.jpg",
+    "https://www.slashgear.com/img/gallery/5-of-the-best-car-wash-soaps-for-your-vehicle/l-intro-1705512855.jpg",
+    "https://www.slashgear.com/img/gallery/5-of-the-best-car-wash-soaps-for-your-vehicle/l-intro-1705512855.jpg"
+  ]
+}

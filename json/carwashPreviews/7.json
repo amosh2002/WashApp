@@ -1,0 +1,21 @@
+{
+  "objectId": 7,
+  "name": "ՕԿՏՈ",
+  "address": "2/7 Մելքումովի փողոց",
+  "city": "Երևան",
+  "country": "Հայաստան",
+  "rating": 5,
+  "review_count": 24,
+  "is_favorite": true,
+  "opening_time": "09:00",
+  "closing_time": "21:30",
+  "distance": 1.2,
+  "latitude": 40.213415,
+  "longitude": 44.475446,
+  "is_promoted": true,
+  "image_urls": [
+    "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/carwashImages/octo/IMG_1.jpg",
+    "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/carwashImages/octo/IMG_2.jpg",
+    "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/carwashImages/octo/IMG_3.jpg"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "objectId": 999,
+  "name": "Սարյան 35",
+  "address": "35 Սարյան փողոց",
+  "city": "Երևան",
+  "country": "Հայաստան",
+  "rating": 5,
+  "review_count": 24,
+  "is_favorite": true,
+  "opening_time": "09:00",
+  "closing_time": "21:30",
+  "distance": 999,
+  "latitude": 40.180102,
+  "longitude": 44.505599,
+  "is_promoted": true,
+  "image_urls": [
+    "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/carwashImages/octo/IMG_1.jpg",
+    "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/carwashImages/octo/IMG_2.jpg",
+    "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/carwashImages/octo/IMG_3.jpg"
+  ]
+}

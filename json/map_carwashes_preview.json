@@ -55,6 +55,13 @@
       "latitude": 40.213415,
       "longitude": 44.475446,
       "is_promoted": true
+    },
+    {
+      "id": "999",
+      "name": "Սարյան 35",
+      "latitude": 40.180102,
+      "longitude": 44.505599,
+      "is_promoted": true
     }
   ]
 }

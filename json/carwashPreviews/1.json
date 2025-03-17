@@ -1,0 +1,21 @@
+{
+  "objectId": 1,
+  "name": "Հյուսիսային Պողոտա",
+  "address": "11 Հյուսիսային Պողոտա",
+  "city": "Երևան",
+  "country": "Հայաստան",
+  "rating": 5,
+  "review_count": 8,
+  "is_favorite": true,
+  "opening_time": "09:00",
+  "closing_time": "21:00",
+  "distance": 2.3,
+  "latitude": 40.181094,
+  "longitude": 44.513504,
+  "is_promoted": true,
+  "image_urls": [
+    "https://img.freepik.com/premium-photo/blue-car-being-washed-car-wash-station_662214-527868.jpg",
+    "https://img.freepik.com/premium-photo/blue-car-being-washed-car-wash-station_662214-527868.jpg",
+    "https://img.freepik.com/premium-photo/blue-car-being-washed-car-wash-station_662214-527868.jpg"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "objectId": 5,
+  "name": "Օպերայի հարևանությամբ",
+  "address": "77 Թումանյան փողոց",
+  "city": "Երևան",
+  "country": "Հայաստան",
+  "rating": 5,
+  "review_count": 4,
+  "is_favorite": false,
+  "opening_time": "13:00",
+  "closing_time": "23:30",
+  "distance": 5.4,
+  "latitude": 40.184205,
+  "longitude": 44.515067,
+  "is_promoted": false,
+  "image_urls": [
+    "https://blog.way.com/wp-content/uploads/2021/10/professional-car-wash-1.jpg",
+    "https://blog.way.com/wp-content/uploads/2021/10/professional-car-wash-1.jpg",
+    "https://blog.way.com/wp-content/uploads/2021/10/professional-car-wash-1.jpg"
+  ]
+}
