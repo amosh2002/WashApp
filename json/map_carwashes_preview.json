@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "id": "0",
+      "name": "Ավտոլվացում 48",
+      "latitude": 40.221851,
+      "longitude": 44.504219,
+      "is_promoted": true
+    },
+    {
+      "id": "1",
+      "name": "Հյուսիսային Պողոտա",
+      "latitude": 40.181094,
+      "longitude": 44.513504,
+      "is_promoted": true
+    },
+    {
+      "id": "2",
+      "name": "Բուզանդ",
+      "latitude": 40.183926,
+      "longitude": 44.505973,
+      "is_promoted": true
+    },
+    {
+      "id": "3",
+      "name": "Սայաթ-Նովա",
+      "latitude": 40.182929,
+      "longitude": 44.519031,
+      "is_promoted": true
+    },
+    {
+      "id": "4",
+      "name": "Թումանյան",
+      "latitude": 40.181526,
+      "longitude": 44.517921,
+      "is_promoted": false
+    },
+    {
+      "id": "5",
+      "name": "Օպերայի հարևանությամբ",
+      "latitude": 40.184205,
+      "longitude": 44.515067,
+      "is_promoted": false
+    },
+    {
+      "id": "6",
+      "name": "հին Երևանցու",
+      "latitude": 40.183475,
+      "longitude": 44.514115,
+      "is_promoted": true
+    },
+    {
+      "id": "7",
+      "name": "ՕԿՏՈ",
+      "latitude": 40.213415,
+      "longitude": 44.475446,
+      "is_promoted": true
+    }
+  ]
+}
