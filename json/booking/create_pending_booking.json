@@ -1,0 +1,31 @@
+{
+  "booking_id": "12345",
+  "date": "2025-03-18",
+  "start_time": "2025-03-18T12:44:09.586Z",
+  "end_time": "2025-03-18T12:44:09.586Z",
+  "booking_status": "PENDING",
+  "user_id": "333",
+  "services": [
+    {
+      "service_id": "1",
+      "service_name": "Արտաքին լվացում",
+      "service_category": "Ստանդարտ",
+      "price": 5000,
+      "duration": "30"
+    }
+  ],
+  "car": {
+    "id": "1",
+    "default": true,
+    "brand_name": "Toyota",
+    "model": "RAV4",
+    "plate_number": "02 TT 007",
+    "production_year": "2020",
+    "color": "White",
+    "logo_image_url": "toyota url",
+    "type": "CROSOOVER",
+    "is_coated": true,
+    "deleted": false
+  },
+  "car_wash_id": "1"
+}
