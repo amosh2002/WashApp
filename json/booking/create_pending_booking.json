@@ -1,6 +1,6 @@
 {
   "booking_id": "12345",
-  "date": "2025-03-18",
+  "date": "2025-03-18T12:44:09.586Z",
   "start_time": "2025-03-18T12:44:09.586Z",
   "end_time": "2025-03-18T12:44:09.586Z",
   "booking_status": "PENDING",
