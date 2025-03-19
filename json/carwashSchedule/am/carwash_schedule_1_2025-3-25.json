@@ -10,8 +10,8 @@
         "is_booked_by_carwash": true,
         "booking_id": "1234",
         "date": "2024-12-13",
-        "start_time": "12:45:00",
-        "end_time": "13:15:00",
+        "start_time": "2024-12-13T12:45:00",
+        "end_time": "2024-12-13T2024-12-13T13:15:00",
         "booking_status": "CONFIRMED",
         "user_id": null,
         "services": null,
@@ -25,8 +25,8 @@
         "is_booked_by_carwash": true,
         "booking_id": "1234",
         "date": "2024-12-13",
-        "start_time": "13:00:00",
-        "end_time": "14:30:00",
+        "start_time": "2024-12-13T13:00:00",
+        "end_time": "2024-12-13T2024-12-13T14:30:00",
         "booking_status": "CONFIRMED",
         "user_id": null,
         "services": null,
@@ -40,8 +40,8 @@
         "is_booked_by_carwash": false,
         "booking_id": "123",
         "date": "2024-12-13",
-        "start_time": "13:30:00",
-        "end_time": "13:45:00",
+        "start_time": "2024-12-13T13:30:00",
+        "end_time": "2024-12-13T13:45:00",
         "booking_status": "CONFIRMED",
         "user_id": "111",
         "services": [
@@ -49,24 +49,16 @@
             "service_id": "1",
             "service_name": "Մակերևույթի մաքրում",
             "service_category": "Արտաքին լվացում",
-            "sedan_specifics": {
+            "service_specifics": {
               "price": 2000,
               "duration": 45
-            },
-            "crossover_specifics": {
-              "price": 3000,
-              "duration": 60
             }
           },
           {
             "service_id": "2",
             "service_name": "Անվահեծերի փայլեցում",
             "service_category": "Արտաքին լվացում",
-            "sedan_specifics": {
-              "price": 1000,
-              "duration": 15
-            },
-            "crossover_specifics": {
+            "service_specifics": {
               "price": 1000,
               "duration": 15
             }
@@ -75,11 +67,7 @@
             "service_id": "3",
             "service_name": "Ոսկ",
             "service_category": "Արտաքին լվացում",
-            "sedan_specifics": {
-              "price": 3000,
-              "duration": 30
-            },
-            "crossover_specifics": {
+            "service_specifics": {
               "price": 3000,
               "duration": 30
             }
@@ -105,8 +93,8 @@
         "is_booked_by_carwash": false,
         "booking_id": "123",
         "date": "2024-12-13",
-        "start_time": "15:30:00",
-        "end_time": "15:45:00",
+        "start_time": "2024-12-13T15:30:00",
+        "end_time": "2024-12-13T15:45:00",
         "booking_status": "CONFIRMED",
         "user_id": "111",
         "services": [
@@ -114,24 +102,16 @@
             "service_id": "1",
             "service_name": "Մակերևույթի մաքրում",
             "service_category": "Արտաքին լվացում",
-            "sedan_specifics": {
+            "service_specifics": {
               "price": 2000,
               "duration": 45
-            },
-            "crossover_specifics": {
-              "price": 3000,
-              "duration": 60
             }
           },
           {
             "service_id": "2",
             "service_name": "Անվահեծերի փայլեցում",
             "service_category": "Արտաքին լվացում",
-            "sedan_specifics": {
-              "price": 1000,
-              "duration": 15
-            },
-            "crossover_specifics": {
+            "service_specifics": {
               "price": 1000,
               "duration": 15
             }
@@ -157,8 +137,8 @@
         "is_booked_by_carwash": false,
         "booking_id": "123",
         "date": "2024-12-13",
-        "start_time": "15:30:00",
-        "end_time": "16:15:00",
+        "start_time": "2024-12-13T15:30:00",
+        "end_time": "2024-12-13T16:15:00",
         "booking_status": "CONFIRMED",
         "user_id": "111",
         "services": [
@@ -166,24 +146,16 @@
             "service_id": "1",
             "service_name": "Մակերևույթի մաքրում",
             "service_category": "Արտաքին լվացում",
-            "sedan_specifics": {
+            "service_specifics": {
               "price": 2000,
               "duration": 45
-            },
-            "crossover_specifics": {
-              "price": 3000,
-              "duration": 60
             }
           },
           {
             "service_id": "2",
             "service_name": "Անվահեծերի փայլեցում",
             "service_category": "Քիմմաքրում",
-            "sedan_specifics": {
-              "price": 1000,
-              "duration": 15
-            },
-            "crossover_specifics": {
+            "service_specifics": {
               "price": 1000,
               "duration": 15
             }
