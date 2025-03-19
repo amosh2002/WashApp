@@ -11,6 +11,7 @@
     "start_time": "2025-03-19T11:16:34",
     "end_time": "2025-03-19T11:16:34",
     "booking_status": "IN_PROGRESS",
+    "booking_type": "WASHAPP",
     "user_id": "333",
     "services": [
       {
