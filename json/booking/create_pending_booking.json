@@ -24,7 +24,7 @@
     "color": "White",
     "logo_image_url": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
     "type": "CROSSOVER",
-    "is_coated": true,
+    "is_coated": false,
     "deleted": false
   },
   "car_wash_id": "1"
