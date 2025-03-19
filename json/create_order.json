@@ -7,7 +7,7 @@
   },
   "booking_details": {
     "booking_id": "booking_001",
-    "date": "2025-03-19T11:16:34",
+    "date": "2025-03-19",
     "start_time": "2025-03-19T11:16:34",
     "end_time": "2025-03-19T11:16:34",
     "booking_status": "IN_PROGRESS",

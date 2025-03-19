@@ -9,7 +9,7 @@
       },
       "booking_details": {
         "booking_id": "booking_001",
-        "date": "2024-03-18T12:44:09",
+        "date": "2024-03-18",
         "start_time": "2025-03-18T12:44:09",
         "end_time": "2025-03-18T12:44:09",
         "booking_status": "PENDING",
@@ -54,7 +54,7 @@
       },
       "booking_details": {
         "booking_id": "booking_002",
-        "date": "2025-03-11T12:44:09",
+        "date": "2025-03-11",
         "start_time": "2025-03-11T12:44:09",
         "end_time": "2025-03-11T13:44:09",
         "booking_status": "PENDING",
@@ -99,7 +99,7 @@
       },
       "booking_details": {
         "booking_id": "booking_010",
-        "date": "2025-02-11T12:44:09",
+        "date": "2025-02-11",
         "start_time": "2025-02-11T12:44:09",
         "end_time": "2025-02-11T12:44:09",
         "booking_status": "PENDING",
@@ -144,7 +144,7 @@
       },
       "booking_details": {
         "booking_id": "booking_010",
-        "date": "2025-01-11T12:44:09",
+        "date": "2025-01-11",
         "start_time": "2025-01-11T12:44:09",
         "end_time": "2025-01-11T12:44:09",
         "booking_status": "PENDING",
