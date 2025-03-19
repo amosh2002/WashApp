@@ -8,10 +8,12 @@
   "services": [
     {
       "service_id": "1",
-      "service_name": "Արտաքին լվացում",
-      "service_category": "Ստանդարտ",
-      "price": 5000,
-      "duration": "30"
+      "service_name": "Standard",
+      "service_category": "Outside wash",
+      "service_specifics": {
+        "price": 4000,
+        "duration": 30
+      }
     }
   ],
   "car": {
