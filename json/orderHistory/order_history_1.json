@@ -19,13 +19,9 @@
             "service_id": "1",
             "service_name": "Standard",
             "service_category": "Outside wash",
-            "sedan_specifics": {
+            "service_specifics": {
               "price": 4000,
               "duration": 30
-            },
-            "crossover_specifics": {
-              "price": 6000,
-              "duration": 60
             }
           }
         ],
@@ -68,13 +64,9 @@
             "service_id": "2",
             "service_name": "Detailed Wash with Shampoo",
             "service_category": "Outside wash",
-            "sedan_specifics": {
+            "service_specifics": {
               "price": 2000,
               "duration": 45
-            },
-            "crossover_specifics": {
-              "price": 5000,
-              "duration": 60
             }
           }
         ],
@@ -117,13 +109,9 @@
             "service_id": "11",
             "service_name": "Body Ceramic coating - 3 Years",
             "service_category": "Ceramic coating",
-            "sedan_specifics": {
+            "service_specifics": {
               "price": 300000,
               "duration": 200
-            },
-            "crossover_specifics": {
-              "price": 400000,
-              "duration": 230
             }
           }
         ],
@@ -166,39 +154,27 @@
             "service_id": "11",
             "service_name": "Body Ceramic coating - 3 Years",
             "service_category": "Ceramic coating",
-            "sedan_specifics": {
+            "service_specifics": {
               "price": 300000,
               "duration": 200
-            },
-            "crossover_specifics": {
-              "price": 400000,
-              "duration": 230
             }
           },
           {
             "service_id": "2",
             "service_name": "Detailed Wash with Shampoo",
             "service_category": "Outside wash",
-            "sedan_specifics": {
+            "service_specifics": {
               "price": 2000,
               "duration": 200
-            },
-            "crossover_specifics": {
-              "price": 3000,
-              "duration": 230
             }
           },
           {
             "service_id": "11",
             "service_name": "Body Ceramic coating - 3 Years",
             "service_category": "Ceramic coating",
-            "sedan_specifics": {
+            "service_specifics": {
               "price": 300000,
               "duration": 200
-            },
-            "crossover_specifics": {
-              "price": 400000,
-              "duration": 230
             }
           }
         ],
