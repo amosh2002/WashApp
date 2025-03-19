@@ -1,11 +1,11 @@
 {
   "schedule": [
     {
-      "timeslot": "12:00:00",
+      "timeslot": "2024-12-13T12:00:00",
       "booking": null
     },
     {
-      "timeslot": "12:45:00",
+      "timeslot": "2024-12-13T12:45:00",
       "booking": {
         "booking_type": "CARWASH",
         "booking_id": "1234",
@@ -20,7 +20,7 @@
       }
     },
     {
-      "timeslot": "15:30:00",
+      "timeslot": "2024-12-13T15:30:00",
       "booking": {
         "booking_type": "WASHAPP",
         "booking_id": "12377",
@@ -73,7 +73,7 @@
       }
     },
     {
-      "timeslot": "18:15:00",
+      "timeslot": "2024-12-13T18:15:00",
       "booking": {
         "booking_type": "WASHAPP",
         "booking_id": "123",
@@ -126,7 +126,7 @@
       }
     },
     {
-      "timeslot": "16:30:00",
+      "timeslot": "2024-12-13T16:30:00",
       "booking": {
         "booking_type": "WASHAPP",
         "booking_id": "123",
@@ -179,7 +179,7 @@
       }
     },
     {
-      "timeslot": "20:00:00",
+      "timeslot": "2024-12-13T20:00:00",
       "booking": {
         "booking_type": "WASHAPP",
         "booking_id": "123",
@@ -232,7 +232,7 @@
       }
     },
     {
-      "timeslot": "22:15:00",
+      "timeslot": "2024-12-13T22:15:00",
       "booking": {
         "booking_type": "WASHAPP",
         "booking_id": "123",
