@@ -17,13 +17,9 @@
         "service_id": "1",
         "service_name": "Standard",
         "service_category": "Outside wash",
-        "sedan_specifics": {
+        "service_specifics": {
           "price": 4000,
           "duration": 30
-        },
-        "crossover_specifics": {
-          "price": 6000,
-          "duration": 60
         }
       }
     ],
@@ -36,7 +32,9 @@
       "production_year": "2020",
       "color": "Սպիտակ",
       "logo_image_url": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
-      "type": "CROSSOVER"
+      "type": "CROSSOVER",
+      "is_coated": true,
+      "deleted": false
     },
     "car_wash_id": "0"
   },
