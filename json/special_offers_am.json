@@ -1,18 +1,45 @@
-[
-  {
-    "objectId": 1,
-    "carwashId": 0,
-    "title": "50% Զեղչ",
-    "description": "Ստացեք 50% զեղչ բոլոր ապրանքանիշների վրա",
-    "imageUrl": "https://numeralpaint.com/wp-content/uploads/2021/08/Aesthetic-Porsche-Car-paint-by-numbers.jpg",
-    "validity": "2021-12-31"
-  },
-  {
-    "objectId": 2,
-    "carwashId": 2,
-    "title": "Ամրագրեք 1-ը, ստացեք 2-րդը անվճար!",
-    "description": "Ամրագրեք 1 ծառայություն և ստացեք 2-րդն անվճար",
-    "imageUrl": "https://mshikaji.com/wp-content/uploads/2021/12/The-Porsche-Experience-1920x1200.jpg",
-    "validity": "2021-12-31"
-  }
-]
+{
+  "data": [
+    {
+      "id": "0",
+      "title": "50% Զեղչ",
+      "description": "Ստացեք 50% զեղչ բոլոր ապրանքանիշների վրա",
+      "image_url": "https://numeralpaint.com/wp-content/uploads/2021/08/Aesthetic-Porsche-Car-paint-by-numbers.jpg",
+      "valid_until": "2025-07-20T18:59:11",
+      "car_wash_info": {
+        "id": "0",
+        "name": "Ավտոլվացում 48",
+        "address": "88 Անաստաս Միկոյան փ․",
+        "longitude": 44.504219,
+        "latitude": 40.221851,
+        "is_promoted": true
+      },
+      "external_url": null
+    },
+    {
+      "id": "1",
+      "title": "Ամրագրեք 1-ը, ստացեք 2-րդը անվճար!",
+      "description": "Ամրագրեք 1 ծառայություն և ստացեք 2-րդն անվճար",
+      "image_url": "https://mshikaji.com/wp-content/uploads/2021/12/The-Porsche-Experience-1920x1200.jpg",
+      "valid_until": "2025-08-15T18:59:11",
+      "car_wash_info": {
+        "id": "4",
+        "name": "Թումանյան",
+        "address": "17 Թումանյան փողոց",
+        "longitude": 44.517921,
+        "latitude": 40.181526,
+        "is_promoted": false
+      },
+      "external_url": null
+    },
+    {
+      "id": "2",
+      "title": "Բաց մի թողեք նորությունները",
+      "description": "Հետևեք մեր ինստագրամյան էջին",
+      "image_url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=460,fit=crop,q=95/m5Kw3alwNwsZO1NG/washapp-1-AGB6JPRgbGszrqQl.png",
+      "valid_until": null,
+      "car_wash_info": null,
+      "external_url": "https://www.instagram.com/washapp_am?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
+    }
+  ]
+}
