@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "CardPan": "**** 5890",
+      "ExpDate": "12/25",
+      "IsActive": true,
+      "CardHolderId": "1",
+      "IsDefault": true
+    },
+    {
+      "CardPan": "**** 3456",
+      "ExpDate": "02/27",
+      "IsActive": true,
+      "CardHolderId": "2",
+      "IsDefault": false
+    },
+    {
+      "CardPan": "**** 21001",
+      "ExpDate": "05/29",
+      "IsActive": true,
+      "CardHolderId": "3",
+      "IsDefault": false
+    },
+    {
+      "CardPan": "**** 1111",
+      "ExpDate": "10/28",
+      "IsActive": false,
+      "CardHolderId": "4",
+      "IsDefault": false
+    }
+  ]
+}
