@@ -1,0 +1,57 @@
+{
+  "id": "2",
+  "user_id": "333",
+  "resource": {
+    "resource_type": "BOOKING",
+    "resource_id": "resource_001"
+  },
+  "booking_details": {
+    "booking_id": "booking_001",
+    "date": "2024-03-19",
+    "start_time": "2024-03-19T15:00:00",
+    "end_time": "2024-03-19T45:00:00",
+    "booking_status": "IN_PROGRESS",
+    "booking_type": "WASHAPP",
+    "user_id": "333",
+    "services": [
+      {
+        "service_id": "1",
+        "service_category": "Արտաքին լվացում",
+        "service_name": "Ստանդարտ",
+        "service_specifics": {
+          "price": 4000,
+          "duration": 30
+        }
+      },
+      {
+        "service_id": "2",
+        "service_category": "Արտաքին լվացում",
+        "service_name": "Մանրակրկիտ լվացում հատուկ հեղուկով",
+        "service_specifics": {
+          "price": 5000,
+          "duration": 45
+        }
+      }
+    ],
+    "car": {
+      "id": "0",
+      "default": true,
+      "brand_name": "Toyota",
+      "model": "RAV4",
+      "plate_number": "34 ZO 454",
+      "production_year": "2023",
+      "color": "Highlander",
+      "logo_image_url": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
+      "type": "CROSSOVER",
+      "is_coated": true,
+      "deleted": false
+    },
+    "car_wash_id": "2"
+  },
+  "payment_info": {
+    "payment_transaction_id": "payment_001",
+    "amount": 9000,
+    "payment_type": "CREDIT_CARD",
+  },
+  "status": "CREATED_PRE_PURCHASED"
+}
