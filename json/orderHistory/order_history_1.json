@@ -45,6 +45,96 @@
         "payment_type": "CREDIT_CARD"
       },
       "status": "CREATED_PRE_PURCHASED"
+    },{
+      "id": "1",
+      "user_id": "1",
+      "resource": {
+        "resource_type": "BOOKING",
+        "resource_id": "resource_001"
+      },
+      "booking_details": {
+        "booking_id": "booking_001",
+        "date": "2024-03-18",
+        "start_time": "2025-03-18T12:44:09",
+        "end_time": "2025-03-18T12:44:09",
+        "booking_status": "PENDING",
+        "booking_type": "WASHAPP",
+        "user_id": "1",
+        "services": [
+          {
+            "service_id": "1",
+            "service_name": "Standard",
+            "service_category": "Outside wash",
+            "service_specifics": {
+              "price": 4000,
+              "duration": 30
+            }
+          }
+        ],
+        "car": {
+          "id": "0",
+          "default": true,
+          "brand_name": "Toyota",
+          "model": "RAV4",
+          "plate_number": "02 TT 007",
+          "production_year": "2020",
+          "color": "Սպիտակ",
+          "logo_image_url": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
+          "type": "CROSSOVER"
+        },
+        "car_wash_id": "0"
+      },
+      "payment_info": {
+        "payment_transaction_id": "payment_001",
+        "amount": 6000,
+        "payment_type": "CREDIT_CARD"
+      },
+      "status": "CREATED_PRE_PURCHASED"
+    },{
+      "id": "1",
+      "user_id": "1",
+      "resource": {
+        "resource_type": "BOOKING",
+        "resource_id": "resource_001"
+      },
+      "booking_details": {
+        "booking_id": "booking_001",
+        "date": "2024-03-18",
+        "start_time": "2025-03-18T12:44:09",
+        "end_time": "2025-03-18T12:44:09",
+        "booking_status": "PENDING",
+        "booking_type": "WASHAPP",
+        "user_id": "1",
+        "services": [
+          {
+            "service_id": "1",
+            "service_name": "Standard",
+            "service_category": "Outside wash",
+            "service_specifics": {
+              "price": 4000,
+              "duration": 30
+            }
+          }
+        ],
+        "car": {
+          "id": "0",
+          "default": true,
+          "brand_name": "Toyota",
+          "model": "RAV4",
+          "plate_number": "02 TT 007",
+          "production_year": "2020",
+          "color": "Սպիտակ",
+          "logo_image_url": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
+          "type": "CROSSOVER"
+        },
+        "car_wash_id": "0"
+      },
+      "payment_info": {
+        "payment_transaction_id": "payment_001",
+        "amount": 6000,
+        "payment_type": "CREDIT_CARD"
+      },
+      "status": "CREATED_PRE_PURCHASED"
     },
     {
       "id": "2",
