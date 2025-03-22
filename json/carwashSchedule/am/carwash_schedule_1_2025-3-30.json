@@ -8,7 +8,7 @@
       "timeslot": "2024-12-13T12:45:00",
       "booking": {
         "booking_type": "CARWASH",
-        "booking_id": "1234",
+        "booking_id": "1111",
         "date": "2024-12-13",
         "start_time": "2024-12-13T12:45:00",
         "end_time": "2024-12-13T13:15:00",
