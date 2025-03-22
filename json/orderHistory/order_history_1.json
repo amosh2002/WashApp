@@ -201,8 +201,72 @@
         "payment_type": "CREDIT_CARD"
       },
       "status": "CREATED_PRE_PURCHASED"
+    },
+    {
+      "id": "5",
+      "user_id": "1",
+      "resource": {
+        "resource_type": "BOOKING",
+        "resource_id": "resource_010"
+      },
+      "booking_details": {
+        "booking_id": "booking_010",
+        "date": "2025-01-13",
+        "start_time": "2025-01-13T12:44:09",
+        "end_time": "2025-01-13T14:32:09",
+        "booking_status": "PENDING",
+        "booking_type": "WASHAPP",
+        "user_id": "1",
+        "services": [
+          {
+            "service_id": "11",
+            "service_name": "Body Ceramic coating - 3 Years",
+            "service_category": "Ceramic coating",
+            "service_specifics": {
+              "price": 300000,
+              "duration": 200
+            }
+          },
+          {
+            "service_id": "2",
+            "service_name": "Detailed Wash with Shampoo",
+            "service_category": "Outside wash",
+            "service_specifics": {
+              "price": 2000,
+              "duration": 200
+            }
+          },
+          {
+            "service_id": "11",
+            "service_name": "Body Ceramic coating - 3 Years",
+            "service_category": "Ceramic coating",
+            "service_specifics": {
+              "price": 300000,
+              "duration": 200
+            }
+          }
+        ],
+        "car": {
+          "id": "5",
+          "default": false,
+          "brand_name": "Toyota",
+          "model": "Highlander",
+          "plate_number": "34 VO 031",
+          "production_year": "2021",
+          "color": "Սպիտակ",
+          "logo_image_url": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
+          "type": "CROSSOVER"
+        },
+        "car_wash_id": "5"
+      },
+      "payment_info": {
+        "payment_transaction_id": "payment_010",
+        "amount": 400000,
+        "payment_type": "CREDIT_CARD"
+      },
+      "status": "CREATED_PRE_PURCHASED"
     }
   ],
-  "total": 6,
+  "total": 5,
   "next_page_url": null
 }
