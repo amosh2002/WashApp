@@ -51,7 +51,7 @@
   "payment_info": {
     "payment_transaction_id": "payment_001",
     "amount": 9000,
-    "payment_type": "CREDIT_CARD",
+    "payment_type": "CREDIT_CARD"
   },
   "status": "CREATED_PRE_PURCHASED"
 }

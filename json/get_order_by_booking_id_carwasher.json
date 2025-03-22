@@ -1,0 +1,26 @@
+{
+  "id": "2",
+  "user_id": "333",
+  "resource": {
+    "resource_type": "BOOKING",
+    "resource_id": "resource_001"
+  },
+  "booking_details": {
+    "booking_id": "booking_001",
+    "date": "2024-03-19",
+    "start_time": "2024-03-19T15:00:00",
+    "end_time": "2024-03-19T15:40:00",
+    "booking_status": "IN_PROGRESS",
+    "booking_type": "WASHAPP",
+    "user_id": "333",
+    "services": null,
+    "car": null,
+    "car_wash_id": "2"
+  },
+  "payment_info": {
+    "payment_transaction_id": "payment_001",
+    "amount": 9000,
+    "payment_type": "CREDIT_CARD"
+  },
+  "status": "CREATED_PRE_PURCHASED"
+}
