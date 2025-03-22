@@ -9,7 +9,7 @@
     "booking_id": "booking_001",
     "date": "2024-03-19",
     "start_time": "2024-03-19T15:00:00",
-    "end_time": "2024-03-19T45:00:00",
+    "end_time": "2024-03-19T15:40:00",
     "booking_status": "IN_PROGRESS",
     "booking_type": "WASHAPP",
     "user_id": "333",
