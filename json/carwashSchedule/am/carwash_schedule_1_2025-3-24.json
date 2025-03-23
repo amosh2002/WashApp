@@ -27,7 +27,7 @@
         "date": "2024-12-13",
         "start_time": "2024-12-13T15:30:00",
         "end_time": "2024-12-13T16:00:00",
-        "booking_status": "CONFIRMED",
+        "booking_status": "COMPLETED",
         "user_id": "111",
         "services": [
           {
@@ -80,7 +80,7 @@
         "date": "2024-12-13",
         "start_time": "2024-12-13T18:15:00",
         "end_time": "2024-12-13T19:15:00",
-        "booking_status": "CONFIRMED",
+        "booking_status": "CANCELED",
         "user_id": "111",
         "services": [
           {
