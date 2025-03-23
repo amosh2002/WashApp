@@ -37,7 +37,7 @@
     {
       "timeslot": "2024-12-13T13:30:00",
       "booking": {
-        "booking_type": "WASHAPP",
+        "booking_type": "WASH_APP",
         "booking_id": "123",
         "date": "2024-12-13",
         "start_time": "2024-12-13T13:30:00",
@@ -90,7 +90,7 @@
     {
       "timeslot": "2024-12-13T15:30:00",
       "booking": {
-        "booking_type": "WASHAPP",
+        "booking_type": "WASH_APP",
         "booking_id": "123",
         "date": "2024-12-13",
         "start_time": "2024-12-13T15:30:00",
@@ -134,7 +134,7 @@
     {
       "timeslot": "2024-12-13T15:30:00",
       "booking": {
-        "booking_type": "WASHAPP",
+        "booking_type": "WASH_APP",
         "booking_id": "123",
         "date": "2024-12-13",
         "start_time": "2024-12-13T15:30:00",
@@ -178,7 +178,7 @@
     {
       "timeslot": "2024-12-13T15:30:00",
       "booking": {
-        "booking_type": "WASHAPP",
+        "booking_type": "WASH_APP",
         "booking_id": "12377",
         "date": "2024-12-13",
         "start_time": "2024-12-13T15:30:00",
@@ -231,7 +231,7 @@
     {
       "timeslot": "2024-12-13T18:15:00",
       "booking": {
-        "booking_type": "WASHAPP",
+        "booking_type": "WASH_APP",
         "booking_id": "123",
         "date": "2024-12-13",
         "start_time": "2024-12-13T18:15:00",
@@ -284,7 +284,7 @@
     {
       "timeslot": "2024-12-13T16:30:00",
       "booking": {
-        "booking_type": "WASHAPP",
+        "booking_type": "WASH_APP",
         "booking_id": "123",
         "date": "2024-12-13",
         "start_time": "2024-12-13T16:30:00",
@@ -337,7 +337,7 @@
     {
       "timeslot": "2024-12-13T19:00:00",
       "booking": {
-        "booking_type": "WASHAPP",
+        "booking_type": "WASH_APP",
         "booking_id": "123",
         "date": "2024-12-13",
         "start_time": "2024-12-13T19:00:00",
@@ -390,7 +390,7 @@
     {
       "timeslot": "2024-12-13T22:15:00",
       "booking": {
-        "booking_type": "WASHAPP",
+        "booking_type": "WASH_APP",
         "booking_id": "123",
         "date": "2024-12-13",
         "start_time": "2024-12-13T22:15:00",
@@ -443,7 +443,7 @@
     {
       "timeslot": "2024-12-13T22:15:00",
       "booking": {
-        "booking_type": "WASHAPP",
+        "booking_type": "WASH_APP",
         "booking_id": "123",
         "date": "2024-12-13",
         "start_time": "2024-12-13T22:15:00",
