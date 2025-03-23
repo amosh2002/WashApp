@@ -13,7 +13,7 @@
         "start_time": "2025-03-18T12:44:09",
         "end_time": "2025-03-18T12:44:09",
         "booking_status": "PENDING",
-        "booking_type": "WASHAPP",
+        "booking_type": "WASH_APP",
         "user_id": "1",
         "services": [
           {
@@ -58,7 +58,7 @@
         "start_time": "2025-03-18T12:44:09",
         "end_time": "2025-03-18T12:44:09",
         "booking_status": "PENDING",
-        "booking_type": "WASHAPP",
+        "booking_type": "WASH_APP",
         "user_id": "1",
         "services": [
           {
@@ -103,7 +103,7 @@
         "start_time": "2025-03-18T12:44:09",
         "end_time": "2025-03-18T12:44:09",
         "booking_status": "PENDING",
-        "booking_type": "WASHAPP",
+        "booking_type": "WASH_APP",
         "user_id": "1",
         "services": [
           {
@@ -149,7 +149,7 @@
         "start_time": "2025-03-11T12:44:09",
         "end_time": "2025-03-11T13:44:09",
         "booking_status": "PENDING",
-        "booking_type": "WASHAPP",
+        "booking_type": "WASH_APP",
         "user_id": "1",
         "services": [
           {
@@ -195,7 +195,7 @@
         "start_time": "2025-02-11T12:44:09",
         "end_time": "2025-02-11T12:44:09",
         "booking_status": "PENDING",
-        "booking_type": "WASHAPP",
+        "booking_type": "WASH_APP",
         "user_id": "1",
         "services": [
           {
@@ -241,7 +241,7 @@
         "start_time": "2025-01-11T12:44:09",
         "end_time": "2025-01-11T12:44:09",
         "booking_status": "PENDING",
-        "booking_type": "WASHAPP",
+        "booking_type": "WASH_APP",
         "user_id": "1",
         "services": [
           {
@@ -305,7 +305,7 @@
         "start_time": "2025-01-13T12:44:09",
         "end_time": "2025-01-13T14:32:09",
         "booking_status": "PENDING",
-        "booking_type": "WASHAPP",
+        "booking_type": "WASH_APP",
         "user_id": "1",
         "services": [
           {

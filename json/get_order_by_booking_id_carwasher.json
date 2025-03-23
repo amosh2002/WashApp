@@ -11,7 +11,7 @@
     "start_time": "2024-03-19T15:00:00",
     "end_time": "2024-03-19T15:40:00",
     "booking_status": "IN_PROGRESS",
-    "booking_type": "WASHAPP",
+    "booking_type": "WASH_APP",
     "user_id": "333",
     "services": null,
     "car": null,
