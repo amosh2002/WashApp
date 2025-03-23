@@ -57,7 +57,7 @@
         "date": "2024-03-18",
         "start_time": "2025-03-18T12:44:09",
         "end_time": "2025-03-18T12:44:09",
-        "booking_status": "PENDING",
+        "booking_status": "COMPLETED",
         "booking_type": "WASH_APP",
         "user_id": "1",
         "services": [
@@ -102,7 +102,7 @@
         "date": "2024-03-18",
         "start_time": "2025-03-18T12:44:09",
         "end_time": "2025-03-18T12:44:09",
-        "booking_status": "PENDING",
+        "booking_status": "CONFIRMED",
         "booking_type": "WASH_APP",
         "user_id": "1",
         "services": [
