@@ -7,7 +7,7 @@
       "code": "WASHAPP_2025",
       "operation_amount": 20,
       "discount_action": "PERCENT",
-      "expiration_date": "2025-08-11T21:30:18.065Z",
+      "expiration_date": "2025-08-11T21:30:18",
       "car_washes": [
         "0",
         "1"
@@ -25,7 +25,7 @@
       "code": "REARRANGE_2025",
       "operation_amount": 10,
       "discount_action": "PERCENT",
-      "expiration_date": "2027-08-11T21:30:18.065Z",
+      "expiration_date": "2027-08-11T21:30:18",
       "car_washes": [
         "0"
       ],
@@ -42,7 +42,7 @@
       "code": "MAGICAL_WASH",
       "operation_amount": 90,
       "discount_action": "PERCENT",
-      "expiration_date": "2029-08-11T21:30:18.065Z",
+      "expiration_date": "2029-08-11T21:30:18",
       "car_washes": [
         "0"
       ],
