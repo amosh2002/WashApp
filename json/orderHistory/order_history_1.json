@@ -10,8 +10,8 @@
       "booking_details": {
         "booking_id": "booking_001",
         "date": "2025-03-24",
-        "start_time": "2025-03-24T18:45:00",
-        "end_time": "2025-03-24T20:00:00",
+        "start_time": "2025-03-24T20:45:00",
+        "end_time": "2025-03-24T22:00:00",
         "booking_status": "CONFIRMED",
         "booking_type": "WASH_APP",
         "user_id": "1",
