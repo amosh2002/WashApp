@@ -1,0 +1,216 @@
+{
+  "data": [
+    {
+      "objectId": 0,
+      "name": "Ավտոլվացում 48",
+      "address": "88 Անաստաս Միկոյան փ․",
+      "city": "Երևան",
+      "country": "Հայաստան",
+      "rating": 5,
+      "review_count": 183,
+      "is_favorite": true,
+      "opening_time": "09:00",
+      "closing_time": "02:00",
+      "distance": 2,
+      "latitude": 40.221851,
+      "longitude": 44.504219,
+      "is_promoted": true,
+      "image_urls": [
+        "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/carwashImages/car_wash_48/IMG_1.png",
+        "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/carwashImages/car_wash_48/IMG_2.png",
+        "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/carwashImages/car_wash_48/IMG_3.png"
+      ]
+    },
+    {
+      "objectId": 1,
+      "name": "Հյուսիսային Պողոտա",
+      "address": "11 Հյուսիսային Պողոտա",
+      "city": "Երևան",
+      "country": "Հայաստան",
+      "rating": 5,
+      "review_count": 8,
+      "is_favorite": true,
+      "opening_time": "09:00",
+      "closing_time": "21:00",
+      "distance": 2.3,
+      "latitude": 40.181094,
+      "longitude": 44.513504,
+      "is_promoted": true,
+      "image_urls": [
+        "https://img.freepik.com/premium-photo/blue-car-being-washed-car-wash-station_662214-527868.jpg",
+        "https://img.freepik.com/premium-photo/blue-car-being-washed-car-wash-station_662214-527868.jpg",
+        "https://img.freepik.com/premium-photo/blue-car-being-washed-car-wash-station_662214-527868.jpg"
+      ]
+    },
+    {
+      "objectId": 2,
+      "name": "Բուզանդ",
+      "address": "10 Բուզանդի փողոց",
+      "city": "Երևան",
+      "country": "Հայաստան",
+      "rating": 4.3,
+      "review_count": 12,
+      "is_favorite": false,
+      "opening_time": "09:00",
+      "closing_time": "04:00",
+      "distance": 2.5,
+      "latitude": 40.183926,
+      "longitude": 44.505973,
+      "is_promoted": true,
+      "image_urls": [
+        "https://tommys-express.com/wp-content/uploads/2023/01/tunnel.jpg",
+        "https://tommys-express.com/wp-content/uploads/2023/01/tunnel.jpg",
+        "https://tommys-express.com/wp-content/uploads/2023/01/tunnel.jpg"
+      ]
+    },
+    {
+      "objectId": 3,
+      "name": "Սայաթ-Նովա",
+      "address": "8 Սայաթ-Նովա պողոտա",
+      "city": "Երևան",
+      "country": "Հայաստան",
+      "rating": 4.25,
+      "review_count": 12,
+      "is_favorite": false,
+      "opening_time": "10:00",
+      "closing_time": "23:00",
+      "distance": 3.1,
+      "latitude": 40.182929,
+      "longitude": 44.519031,
+      "is_promoted": true,
+      "image_urls": [
+        "https://www.slashgear.com/img/gallery/5-of-the-best-car-wash-soaps-for-your-vehicle/l-intro-1705512855.jpg",
+        "https://www.slashgear.com/img/gallery/5-of-the-best-car-wash-soaps-for-your-vehicle/l-intro-1705512855.jpg",
+        "https://www.slashgear.com/img/gallery/5-of-the-best-car-wash-soaps-for-your-vehicle/l-intro-1705512855.jpg"
+      ]
+    },
+    {
+      "objectId": 4,
+      "name": "Թումանյան",
+      "address": "17 Թումանյան փողոց",
+      "city": "Երևան",
+      "country": "Հայաստան",
+      "rating": 4.0,
+      "review_count": 22,
+      "is_favorite": true,
+      "opening_time": "10:00",
+      "closing_time": "02:30",
+      "distance": 3.7,
+      "latitude": 40.181526,
+      "longitude": 44.517921,
+      "is_promoted": false,
+      "image_urls": [
+        "https://static.vecteezy.com/system/resources/thumbnails/039/664/930/small_2x/ai-generated-close-up-of-professional-car-wash-black-sports-car-being-shampooed-for-a-sparkling-clean-finish-free-photo.jpg",
+        "https://static.vecteezy.com/system/resources/thumbnails/039/664/930/small_2x/ai-generated-close-up-of-professional-car-wash-black-sports-car-being-shampooed-for-a-sparkling-clean-finish-free-photo.jpg",
+        "https://static.vecteezy.com/system/resources/thumbnails/039/664/930/small_2x/ai-generated-close-up-of-professional-car-wash-black-sports-car-being-shampooed-for-a-sparkling-clean-finish-free-photo.jpg"
+      ]
+    },
+    {
+      "objectId": 5,
+      "name": "Օպերայի հարևանությամբ",
+      "address": "77 Թումանյան փողոց",
+      "city": "Երևան",
+      "country": "Հայաստան",
+      "rating": 5,
+      "review_count": 4,
+      "is_favorite": false,
+      "opening_time": "13:00",
+      "closing_time": "23:30",
+      "distance": 5.4,
+      "latitude": 40.184205,
+      "longitude": 44.515067,
+      "is_promoted": false,
+      "image_urls": [
+        "https://blog.way.com/wp-content/uploads/2021/10/professional-car-wash-1.jpg",
+        "https://blog.way.com/wp-content/uploads/2021/10/professional-car-wash-1.jpg",
+        "https://blog.way.com/wp-content/uploads/2021/10/professional-car-wash-1.jpg"
+      ]
+    },
+    {
+      "objectId": 6,
+      "name": "հին Երևանցու",
+      "address": "1 հին Երևանցու փողոց",
+      "city": "Երևան",
+      "country": "Հայաստան",
+      "rating": 2,
+      "review_count": 62,
+      "is_favorite": false,
+      "opening_time": "10:00",
+      "closing_time": "23:00",
+      "distance": 5.5,
+      "latitude": 40.183475,
+      "longitude": 44.514115,
+      "is_promoted": true,
+      "image_urls": [
+        "https://tommys-express.com/wp-content/uploads/2023/01/tunnel.jpg",
+        "https://tommys-express.com/wp-content/uploads/2023/01/tunnel.jpg",
+        "https://tommys-express.com/wp-content/uploads/2023/01/tunnel.jpg"
+      ]
+    },
+    {
+      "objectId": 7,
+      "name": "ՕԿՏՈ",
+      "address": "2/7 Մելքումովի փողոց",
+      "city": "Երևան",
+      "country": "Հայաստան",
+      "rating": 5,
+      "review_count": 24,
+      "is_favorite": true,
+      "opening_time": "09:00",
+      "closing_time": "21:30",
+      "distance": 1.2,
+      "latitude": 40.213415,
+      "longitude": 44.475446,
+      "is_promoted": true,
+      "image_urls": [
+        "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/carwashImages/octo/IMG_1.jpg",
+        "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/carwashImages/octo/IMG_2.jpg",
+        "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/carwashImages/octo/IMG_3.jpg"
+      ]
+    },
+    {
+      "objectId": 8,
+      "name": "Լվացման կետ 9",
+      "address": "2/7 Լվացման կետ 9",
+      "city": "Երևան",
+      "country": "Հայաստան",
+      "rating": 5,
+      "review_count": 24,
+      "is_favorite": true,
+      "opening_time": "09:00",
+      "closing_time": "21:30",
+      "distance": 1.2,
+      "latitude": 40.213417,
+      "longitude": 44.475449,
+      "is_promoted": true,
+      "image_urls": [
+        "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/carwashImages/octo/IMG_1.jpg",
+        "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/carwashImages/octo/IMG_2.jpg",
+        "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/carwashImages/octo/IMG_3.jpg"
+      ]
+    },
+    {
+      "objectId": 9,
+      "name": "Լվացման կետ 10",
+      "address": "2/7 Լվացման կետ 10",
+      "city": "Երևան",
+      "country": "Հայաստան",
+      "rating": 5,
+      "review_count": 24,
+      "is_favorite": true,
+      "opening_time": "09:00",
+      "closing_time": "21:30",
+      "distance": 1.2,
+      "latitude": 40.213425,
+      "longitude": 44.475446,
+      "is_promoted": true,
+      "image_urls": [
+        "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/carwashImages/octo/IMG_1.jpg",
+        "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/carwashImages/octo/IMG_2.jpg",
+        "https://raw.githubusercontent.com/amosh2002/WashApp/main/images/carwashImages/octo/IMG_3.jpg"
+      ]
+    }
+  ],
+  "total": 10,
+  "next_page_url": "https://raw.githubusercontent.com/amosh2002/WashApp/main/json/carwashesPaginated/am/carwashes_2.json"
+}
