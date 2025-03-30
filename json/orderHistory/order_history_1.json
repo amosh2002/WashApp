@@ -148,7 +148,7 @@
         "date": "2025-03-11",
         "start_time": "2025-03-11T12:44:09",
         "end_time": "2025-03-11T13:44:09",
-        "booking_status": "PENDING",
+        "booking_status": "CANCELLED",
         "booking_type": "WASH_APP",
         "user_id": "1",
         "services": [
