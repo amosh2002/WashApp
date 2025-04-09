@@ -1,8 +1,8 @@
 {
   "booking_id": "12345",
-  "date": "2025-03-18",
-  "start_time": "2025-03-18T12:44:09",
-  "end_time": "2025-03-18T12:44:09",
+  "date": "2025-04-10",
+  "start_time": "2025-04-10T10:45:09",
+  "end_time": "2025-04-10T11:30:09",
   "booking_status": "PENDING",
   "user_id": "333",
   "services": [
@@ -36,14 +36,14 @@
   ],
   "car": {
     "id": "1",
-    "default": true,
-    "brand_name": "Toyota",
-    "model": "RAV4",
-    "plate_number": "02 TT 007",
-    "production_year": "2020",
+    "default": false,
+    "brand_name": "BMW",
+    "model": "i5",
+    "plate_number": null,
+    "production_year": "2024",
     "color": "White",
-    "logo_image_url": "https://freepnglogo.com/images/all_img/1714316084toyota-logo-png-white.png",
-    "type": "CROSSOVER",
+    "logo_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/640px-BMW.svg.png",
+    "type": "SEDAN",
     "is_coated": false,
     "deleted": false
   },
