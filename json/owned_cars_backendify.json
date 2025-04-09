@@ -3,5 +3,17 @@
   "name": "John Doe",
   "mobile_number": "+374 94 50 33 50",
   "verified": true,
-  "cars": []
+  "cars": [
+    {
+      "id": "1",
+      "default": false,
+      "brand_name": "BMW",
+      "model": "i5",
+      "production_year": "2024",
+      "color": "Սև",
+      "plate_number": null,
+      "logo_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/640px-BMW.svg.png",
+      "type": "SEDAN"
+    }
+  ]
 }
