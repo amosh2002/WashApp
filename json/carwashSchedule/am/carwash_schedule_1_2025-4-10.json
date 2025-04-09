@@ -1,8 +1,139 @@
 {
   "schedule": [
     {
+      "timeslot": "2024-12-13T10:00:00",
+      "booking": {
+        "booking_type": "CARWASH",
+        "booking_id": "1111",
+        "date": "2024-12-13",
+        "start_time": "2024-12-13T12:45:00",
+        "end_time": "2024-12-13T13:15:00",
+        "booking_status": "CONFIRMED",
+        "user_id": null,
+        "services": null,
+        "car": null,
+        "car_wash_id": "1"
+      }
+    },
+    {
+      "timeslot": "2024-12-13T10:15:00",
+      "booking": {
+        "booking_type": "CARWASH",
+        "booking_id": "1111",
+        "date": "2024-12-13",
+        "start_time": "2024-12-13T12:45:00",
+        "end_time": "2024-12-13T13:15:00",
+        "booking_status": "CONFIRMED",
+        "user_id": null,
+        "services": null,
+        "car": null,
+        "car_wash_id": "1"
+      }
+    },
+    {
+      "timeslot": "2024-12-13T10:30:00",
+      "booking": {
+        "booking_type": "CARWASH",
+        "booking_id": "1111",
+        "date": "2024-12-13",
+        "start_time": "2024-12-13T12:45:00",
+        "end_time": "2024-12-13T13:15:00",
+        "booking_status": "CONFIRMED",
+        "user_id": null,
+        "services": null,
+        "car": null,
+        "car_wash_id": "1"
+      }
+    },
+    {
+      "timeslot": "2024-12-13T10:45:00",
+      "booking": {
+        "booking_type": "CARWASH",
+        "booking_id": "1111",
+        "date": "2024-12-13",
+        "start_time": "2024-12-13T12:45:00",
+        "end_time": "2024-12-13T13:15:00",
+        "booking_status": "CONFIRMED",
+        "user_id": null,
+        "services": null,
+        "car": null,
+        "car_wash_id": "1"
+      }
+    },
+    {
+      "timeslot": "2024-12-13T11:00:00",
+      "booking": {
+        "booking_type": "CARWASH",
+        "booking_id": "1111",
+        "date": "2024-12-13",
+        "start_time": "2024-12-13T12:45:00",
+        "end_time": "2024-12-13T13:15:00",
+        "booking_status": "CONFIRMED",
+        "user_id": null,
+        "services": null,
+        "car": null,
+        "car_wash_id": "1"
+      }
+    },
+    {
+      "timeslot": "2024-12-13T11:15:00",
+      "booking": {
+        "booking_type": "CARWASH",
+        "booking_id": "1111",
+        "date": "2024-12-13",
+        "start_time": "2024-12-13T12:45:00",
+        "end_time": "2024-12-13T13:15:00",
+        "booking_status": "CONFIRMED",
+        "user_id": null,
+        "services": null,
+        "car": null,
+        "car_wash_id": "1"
+      }
+    },
+    {
+      "timeslot": "2024-12-13T11:30:00",
+      "booking": {
+        "booking_type": "CARWASH",
+        "booking_id": "1111",
+        "date": "2024-12-13",
+        "start_time": "2024-12-13T12:45:00",
+        "end_time": "2024-12-13T13:15:00",
+        "booking_status": "CONFIRMED",
+        "user_id": null,
+        "services": null,
+        "car": null,
+        "car_wash_id": "1"
+      }
+    },
+    {
+      "timeslot": "2024-12-13T11:45:00",
+      "booking": {
+        "booking_type": "CARWASH",
+        "booking_id": "1111",
+        "date": "2024-12-13",
+        "start_time": "2024-12-13T12:45:00",
+        "end_time": "2024-12-13T13:15:00",
+        "booking_status": "CONFIRMED",
+        "user_id": null,
+        "services": null,
+        "car": null,
+        "car_wash_id": "1"
+      }
+    },
+    {
       "timeslot": "2024-12-13T12:00:00",
-      "booking": null
+      "booking": {
+        "booking_type": "CARWASH",
+        "booking_id": "1111",
+        "date": "2024-12-13",
+        "start_time": "2024-12-13T12:45:00",
+        "end_time": "2024-12-13T13:15:00",
+        "booking_status": "CONFIRMED",
+        "user_id": null,
+        "services": null,
+        "car": null,
+        "car_wash_id": "1"
+      }
     },
     {
       "timeslot": "2024-12-13T12:45:00",
