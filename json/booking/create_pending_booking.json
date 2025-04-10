@@ -1,8 +1,8 @@
 {
   "booking_id": "12345",
   "date": "2025-04-10",
-  "start_time": "2025-04-10T10:45:09",
-  "end_time": "2025-04-10T11:30:09",
+  "start_time": "2025-04-10T11:00:09",
+  "end_time": "2025-04-10T11:45:09",
   "booking_status": "PENDING",
   "user_id": "333",
   "services": [
@@ -11,26 +11,17 @@
       "service_category": "Արտաքին լվացում",
       "service_name": "Ստանդարտ",
       "service_specifics": {
-        "price": 4000,
+        "price": 3000,
         "duration": 30
       }
     },
     {
       "service_id": "2",
-      "service_category": "Արտաքին լվացում",
-      "service_name": "Մանրակրկիտ լվացում հատուկ հեղուկով",
+      "service_category": "Ներքին լվացում",
+      "service_name": "Սրահի մաքրում",
       "service_specifics": {
-        "price": 5000,
+        "price": 1000,
         "duration": 45
-      }
-    },
-    {
-      "service_id": "3",
-      "service_category": "Արտաքին լվացում",
-      "service_name": "Մեքենայի տակի լվացում",
-      "service_specifics": {
-        "price": 6000,
-        "duration": 60
       }
     }
   ],
