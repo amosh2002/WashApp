@@ -11,7 +11,7 @@
       "service_category": "Արտաքին լվացում",
       "service_name": "Ստանդարտ",
       "service_specifics": {
-        "price": 5000,
+        "price": 6000,
         "duration": 30
       }
     },
@@ -20,7 +20,7 @@
       "service_category": "Ներքին լվացում",
       "service_name": "Սրահի մաքրում",
       "service_specifics": {
-        "price": 2000,
+        "price": 1000,
         "duration": 15
       }
     }
