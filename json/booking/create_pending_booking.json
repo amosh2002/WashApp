@@ -1,8 +1,8 @@
 {
   "booking_id": "12345",
-  "date": "2025-04-10",
-  "start_time": "2025-04-10T11:00:09",
-  "end_time": "2025-04-10T11:45:09",
+  "date": "2025-04-30",
+  "start_time": "2025-04-30T10:30:00",
+  "end_time": "2025-04-30T11:30:00",
   "booking_status": "PENDING",
   "user_id": "333",
   "services": [
@@ -11,8 +11,8 @@
       "service_category": "Արտաքին լվացում",
       "service_name": "Ստանդարտ",
       "service_specifics": {
-        "price": 3000,
-        "duration": 30
+        "price": 5000,
+        "duration": 45
       }
     },
     {
@@ -20,7 +20,7 @@
       "service_category": "Ներքին լվացում",
       "service_name": "Սրահի մաքրում",
       "service_specifics": {
-        "price": 1000,
+        "price": 2000,
         "duration": 15
       }
     }
@@ -28,13 +28,13 @@
   "car": {
     "id": "1",
     "default": false,
-    "brand_name": "BMW",
-    "model": "i5",
-    "plate_number": null,
+    "brand_name": "Li Auto",
+    "model": "L6",
+    "plate_number": "02 TT 007",
     "production_year": "2024",
-    "color": "White",
-    "logo_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/640px-BMW.svg.png",
-    "type": "SEDAN",
+    "color": "Մոխրագույն",
+    "logo_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Li_Auto_logo.png",
+    "type": "CROSSOVER",
     "is_coated": false,
     "deleted": false
   },
