@@ -7,13 +7,13 @@
     {
       "id": "1",
       "default": true,
-      "brand_name": "BMW",
-      "model": "i5",
+      "brand_name": "Li Auto",
+      "model": "L6",
       "production_year": "2024",
-      "color": "Սև",
-      "plate_number": null,
-      "logo_image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/640px-BMW.svg.png",
-      "type": "SEDAN"
+      "color": "Մոխրագույն",
+      "plate_number": "02 TT 007",
+      "logo_image_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Li_Auto_logo.png",
+      "type": "CROSSOVER"
     }
   ]
 }
